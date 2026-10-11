@@ -1,0 +1,666 @@
+[
+  {
+    "name": "Zhanteng Xie",
+    "role": "PostDoc",
+    "year": 2024,
+    "alumni": false,
+    "departure": "",
+    "research": "Navigation",
+    "homepage": "https://sites.google.com/site/zhantengxie/",
+    "emails": [
+      "zhanteng@hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "Weixin Image_20260906201309_82_44_2026-09-29 13.45.49_墨离.jpg",
+    "photo": "Zhanteng_Xie.jpg",
+    "portrait": "Zhanteng_Xie.webp",
+    "row": 2
+  },
+  {
+    "name": "Kun Song",
+    "role": "PhD",
+    "year": 2025,
+    "alumni": false,
+    "departure": "",
+    "research": "Humanoid whole-body manipulation",
+    "homepage": "https://song-kun.github.io/",
+    "emails": [
+      "kunsong112@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "db8d9151a54a2f792d818cdf5e9156d7_2026-09-29 13.54.11_Kun Song.jpeg",
+    "photo": "Kun_Song.jpg",
+    "portrait": "Kun_Song.webp",
+    "row": 3
+  },
+  {
+    "name": "Tengye Xu",
+    "role": "PhD",
+    "year": 2025,
+    "alumni": false,
+    "departure": "",
+    "research": "Manipulation, RL, embodied AI",
+    "homepage": "",
+    "emails": [
+      "xutengyehku@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "e7313a13674078d3454a1df388cd4976_2026-09-29 13.54.29_tanya.jpeg",
+    "photo": "Tengye_Xu.jpg",
+    "portrait": "Tengye_Xu.webp",
+    "row": 4
+  },
+  {
+    "name": "Zhaoxing Yang",
+    "role": "PostDoc",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Locomotion, safety, reinforcement learning",
+    "homepage": "https://zhaoxing1125.github.io/",
+    "emails": [
+      "yangzx1125@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "IMG_0543_2026-09-29 14.33.56_杨兆星 Zhaoxing Yang.jpeg",
+    "photo": "Zhaoxing_Yang.jpg",
+    "portrait": "Zhaoxing_Yang.webp",
+    "row": 5
+  },
+  {
+    "name": "Guanqi Chen",
+    "role": "PhD",
+    "year": 2021,
+    "alumni": false,
+    "departure": "",
+    "research": "Navigation, manipulation",
+    "homepage": "https://chenguanqi.github.io/",
+    "emails": [
+      "chguanqi@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "rss_photo_2026-09-29 14.35.54_别颓.jpg",
+    "photo": "Guanqi_Chen.jpg",
+    "portrait": "Guanqi_Chen.webp",
+    "row": 6
+  },
+  {
+    "name": "Junxiao Lin",
+    "role": "PhD",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Dexterous manipulation, robotics",
+    "homepage": "https://junxiaolin.github.io/",
+    "emails": [
+      "jxlin1@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "ljx-生活照_2026-09-29 14.38.48_晓Zun.jpg",
+    "photo": "Junxiao_Lin.jpg",
+    "portrait": "Junxiao_Lin.webp",
+    "row": 7
+  },
+  {
+    "name": "Shuai Zhang",
+    "role": "PostDoc",
+    "year": 2021,
+    "alumni": true,
+    "departure": "2025",
+    "research": "Swarm robotics, multi-robot systems, robotics and autonomous systems, distributed control",
+    "homepage": "https://www.polyu.edu.hk/aae/people/academic-staff/dr-zhang-shuai/",
+    "emails": [
+      "shuai-zs.zhang@polyu.edu.hk"
+    ],
+    "destination": "Research Assistant Professor, The Hong Kong Polytechnic University",
+    "source_photo": "shuai_2026-09-29 14.40.40_Shuai_Zhang.jpg",
+    "photo": "Shuai_Zhang.jpg",
+    "portrait": "Shuai_Zhang.webp",
+    "row": 8
+  },
+  {
+    "name": "Zeqing Zhang",
+    "role": "PhD",
+    "year": 2020,
+    "alumni": true,
+    "departure": "Fall 2024",
+    "research": "Tactile sensing, contact modeling, manipulation",
+    "homepage": "https://benjizhang.github.io/",
+    "emails": [
+      "zzqing@connect.hku.hk"
+    ],
+    "destination": "Research Assistant Professor, The Hong Kong Polytechnic University",
+    "source_photo": "IMG_4614 - 副本_2026-09-29 15.02.32_ZZQ✈tw_NS_ Rob..jpg",
+    "photo": "Zeqing_Zhang.jpg",
+    "portrait": "Zeqing_Zhang.webp",
+    "row": 9
+  },
+  {
+    "name": "Dongjie Yu",
+    "role": "PhD",
+    "year": 2023,
+    "alumni": false,
+    "departure": "",
+    "research": "Robot learning, reinforcement learning, robot manipulation",
+    "homepage": "https://manutdmoon.github.io/",
+    "emails": [
+      "djyu@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "ydj_profile_2026-09-29 15.47.03_余冬杰.JPG",
+    "photo": "Dongjie_Yu.jpg",
+    "portrait": "Dongjie_Yu.webp",
+    "row": 10
+  },
+  {
+    "name": "Chang Chen",
+    "role": "PhD",
+    "year": 2025,
+    "alumni": false,
+    "departure": "",
+    "research": "Robot navigation, robotic photography, robot learning",
+    "homepage": "",
+    "emails": [
+      "changchen@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_20260908_221641_2026-09-29 17.05.47_Time after Time.jpg",
+    "photo": "Chang_Chen.jpg",
+    "portrait": "Chang_Chen.webp",
+    "row": 11
+  },
+  {
+    "name": "Yin Zhang",
+    "role": "PostDoc",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Manipulation, imitation learning",
+    "homepage": "https://oliviazhang1996.github.io/",
+    "emails": [
+      "zhangyin1823@163.com"
+    ],
+    "destination": "",
+    "source_photo": "2026年07月09日_0372_2026-09-29 18.42.58_张尹.jpeg",
+    "photo": "Yin_Zhang.jpg",
+    "portrait": "Yin_Zhang.webp",
+    "row": 12
+  },
+  {
+    "name": "Kejin Yu",
+    "role": "PhD",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Long-horizon manipulation",
+    "homepage": "",
+    "emails": [
+      "kejinyu22@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "IMG_2517_2026-09-29 19.12.59_Yuzu_ru .jpeg",
+    "photo": "Kejin_Yu.jpg",
+    "portrait": "Kejin_Yu.webp",
+    "row": 13
+  },
+  {
+    "name": "Haobo Zuo",
+    "role": "PhD",
+    "year": 2023,
+    "alumni": false,
+    "departure": "",
+    "research": "Bionic snake robots, embodied intelligence, computer vision, reinforcement learning",
+    "homepage": "https://scholar.google.com/citations?user=5RhJGKgAAAAJ&hl=zh-CN",
+    "emails": [
+      "haobozuo@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "2寸 4_2026-09-29 19.26.58_博.jpg",
+    "photo": "Haobo_Zuo.jpg",
+    "portrait": "Haobo_Zuo.webp",
+    "row": 14
+  },
+  {
+    "name": "Guangze Zheng",
+    "role": "PhD",
+    "year": 2023,
+    "alumni": false,
+    "departure": "",
+    "research": "Visual tracking",
+    "homepage": "https://george-zhuang.github.io/",
+    "emails": [
+      "guangzezheng666@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "IMG_4472 2_2026-09-29 19.59.19_郑光光.jpg",
+    "photo": "Guangze_Zheng.jpg",
+    "portrait": "Guangze_Zheng.webp",
+    "row": 15
+  },
+  {
+    "name": "Peng Zhou",
+    "role": "PostDoc",
+    "year": 2022,
+    "alumni": true,
+    "departure": "2025",
+    "research": "Deformable object manipulation, dexterous manipulation, agentic robotics",
+    "homepage": "https://jeffery-zhou.github.io/",
+    "emails": [
+      "pzhou@gbu.edu.cn",
+      "peng.zhou@ieee.org"
+    ],
+    "destination": "Great Bay University (GBU)",
+    "source_photo": "422_2026-09-29 21.28.52_大信.png",
+    "photo": "Peng_Zhou.png",
+    "portrait": "Peng_Zhou.webp",
+    "row": 16
+  },
+  {
+    "name": "Songyuan Su",
+    "role": "Master",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Mobile manipulation, agentic robotics",
+    "homepage": "",
+    "emails": [
+      "susongyuan666@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "IMG_7549_2026-09-30 10.26.19_Sy.jpeg",
+    "photo": "Songyuan_Su.jpg",
+    "portrait": "Songyuan_Su.webp",
+    "row": 17
+  },
+  {
+    "name": "Zhongxuan Li",
+    "role": "PhD",
+    "year": 2023,
+    "alumni": false,
+    "departure": "",
+    "research": "Robot task and motion planning",
+    "homepage": "https://dieselmarble.github.io/",
+    "emails": [
+      "zxli01@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_6894_2026-09-30 10.49.19_Dieselmarble.JPG",
+    "photo": "Zhongxuan_Li.jpg",
+    "portrait": "Zhongxuan_Li.webp",
+    "row": 18
+  },
+  {
+    "name": "Liang Lu",
+    "role": "PostDoc",
+    "year": 2023,
+    "alumni": true,
+    "departure": "October 2025",
+    "research": "Robot motion planning and scene understanding",
+    "homepage": "https://captjulian.github.io/",
+    "emails": [
+      "llu@szu.edu.cn"
+    ],
+    "destination": "Assistant Professor, Shenzhen University",
+    "source_photo": "liang_2026-09-30 13.03.07_陆亮.jpg",
+    "photo": "Liang_Lu.jpg",
+    "portrait": "Liang_Lu.webp",
+    "row": 19
+  },
+  {
+    "name": "Hang Xu",
+    "role": "PostDoc",
+    "year": 2023,
+    "alumni": true,
+    "departure": "Winter 2025",
+    "research": "Bimanual manipulation",
+    "homepage": "https://joanahxu.github.io",
+    "emails": [
+      "xuhang_official@outlook.com"
+    ],
+    "destination": "Robotics Researcher, JD Technology (JDT)",
+    "source_photo": "IMG_4870_2026-09-30 15.11.34_徐航.jpeg",
+    "photo": "Hang_Xu.jpg",
+    "portrait": "Hang_Xu.webp",
+    "row": 20
+  },
+  {
+    "name": "Chengyu Deng",
+    "role": "PhD",
+    "year": 2024,
+    "alumni": false,
+    "departure": "",
+    "research": "Imitation learning, bimanual manipulation",
+    "homepage": "",
+    "emails": [
+      "chengyud@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_8824_2026-09-30 20.48.49_ж.jpeg",
+    "photo": "Chengyu_Deng.jpg",
+    "portrait": "Chengyu_Deng.webp",
+    "row": 21
+  },
+  {
+    "name": "Zhengjie Shu",
+    "role": "PhD",
+    "year": 2025,
+    "alumni": false,
+    "departure": "",
+    "research": "Reinforcement learning, imitation learning",
+    "homepage": "",
+    "emails": [
+      "shuzj@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_4811_2026-09-30 22.06.06_Shu.jpeg",
+    "photo": "Zhengjie_Shu.jpg",
+    "portrait": "Zhengjie_Shu.webp",
+    "row": 22
+  },
+  {
+    "name": "Jiaming Qi",
+    "role": "PostDoc",
+    "year": 2023,
+    "alumni": true,
+    "departure": "November 2024",
+    "research": "Deformable object manipulation, robot manipulation",
+    "homepage": "https://cmee.nefu.edu.cn/info/1075/6397.htm",
+    "emails": [
+      "JiamingQi@nefu.edu.cn"
+    ],
+    "destination": "Northeast Forestry University",
+    "source_photo": "照片-齐佳明1_2026-10-01 11.07.05_好好学习.jpg",
+    "photo": "Jiaming_Qi.jpg",
+    "portrait": "Jiaming_Qi.webp",
+    "row": 23
+  },
+  {
+    "name": "Yuhan Xie",
+    "role": "PhD",
+    "year": 2023,
+    "alumni": false,
+    "departure": "",
+    "research": "Active reconstruction, aerial systems: perception and autonomy",
+    "homepage": "",
+    "emails": [
+      "yuhanxie@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "IMG_3240_2026-10-01 23.00.29_Johanna🐣.jpeg",
+    "photo": "Yuhan_Xie.jpg",
+    "portrait": "Yuhan_Xie.webp",
+    "row": 24
+  },
+  {
+    "name": "Sihan Chen",
+    "role": "PhD",
+    "year": 2024,
+    "alumni": false,
+    "departure": "",
+    "research": "Human-robot interaction, manipulation",
+    "homepage": "",
+    "emails": [
+      "sihanchen@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_9014_2026-10-02 00.24.20_Intrépide.jpeg",
+    "photo": "Sihan_Chen.jpg",
+    "portrait": "Sihan_Chen.webp",
+    "row": 25
+  },
+  {
+    "name": "Yunhai Wang",
+    "role": "Master",
+    "year": 2023,
+    "alumni": true,
+    "departure": "Summer 2026",
+    "research": "Fabric manipulation",
+    "homepage": "",
+    "emails": [
+      "wyh562527789@gmail.com"
+    ],
+    "destination": "Entrepreneurship",
+    "source_photo": "IMG_4033_2026-10-02 08.22.19_william w.jpeg",
+    "photo": "Yunhai_Wang.jpg",
+    "portrait": "Yunhai_Wang.webp",
+    "row": 26
+  },
+  {
+    "name": "Liangliang Yao",
+    "role": "PhD",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Embodied AI, UAVs, navigation",
+    "homepage": "",
+    "emails": [
+      "liangliangyao@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "avatar_2026-10-06 10.12.52_reverie.jpg",
+    "photo": "Liangliang_Yao.jpg",
+    "portrait": "Liangliang_Yao.webp",
+    "row": 27
+  },
+  {
+    "name": "Zejia Liu",
+    "role": "PhD",
+    "year": 2024,
+    "alumni": false,
+    "departure": "",
+    "research": "Manipulation",
+    "homepage": "",
+    "emails": [
+      "zejialiu@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "phd_灰底-1_2026-10-07 23.14.03_河子 .jpg",
+    "photo": "Zejia_Liu.jpg",
+    "portrait": "Zejia_Liu.webp",
+    "row": 28
+  },
+  {
+    "name": "Guanhua Chen",
+    "role": "PhD",
+    "year": 2018,
+    "alumni": true,
+    "departure": "September 2022",
+    "research": "Continual learning and self-evolution of large-model agents, embodied agents",
+    "homepage": "https://ghchen.me",
+    "emails": [
+      "chengh3@sustech.edu.cn"
+    ],
+    "destination": "Assistant Professor, Department of Statistics and Data Science, Southern University of Science and Technology",
+    "source_photo": "南方科技大学-陈冠华_2026-10-08 11.17.59_guanhua .jpg",
+    "photo": "Guanhua_Chen.jpg",
+    "portrait": "Guanhua_Chen.webp",
+    "row": 29
+  },
+  {
+    "name": "Zhaole Sun",
+    "role": "PostDoc",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Dexterous manipulation, dexterous hand design",
+    "homepage": "https://sunzhaole.github.io/",
+    "emails": [
+      "szlhszt@outlook.com"
+    ],
+    "destination": "",
+    "source_photo": "IMG_0745_2026-10-08 11.19.09_Yuuzhan Vong.jpeg",
+    "photo": "Zhaole_Sun.jpg",
+    "portrait": "Zhaole_Sun.webp",
+    "row": 30
+  },
+  {
+    "name": "Chen Wang",
+    "role": "PhD",
+    "year": 2019,
+    "alumni": true,
+    "departure": "Spring 2026",
+    "research": "Manipulation",
+    "homepage": "",
+    "emails": [
+      "chenwang0234@gmail.com"
+    ],
+    "destination": "AgiBot",
+    "source_photo": "IMG_2854_2026-10-08 11.20.51_😕.jpeg",
+    "photo": "Chen_Wang.jpg",
+    "portrait": "Chen_Wang.webp",
+    "row": 31
+  },
+  {
+    "name": "Lei Yang",
+    "role": "PostDoc",
+    "year": 2021,
+    "alumni": true,
+    "departure": "2023",
+    "research": "Computer graphics, manipulation",
+    "homepage": "https://leiyangjustin.github.io",
+    "emails": [
+      "lyang125@hku.hk"
+    ],
+    "destination": "The University of Hong Kong",
+    "source_photo": "175109875900374_2026-10-08 11.32.54_Yang Lei.webp",
+    "photo": "Lei_Yang.webp",
+    "portrait": "Lei_Yang.webp",
+    "row": 32
+  },
+  {
+    "name": "Wanli Xing",
+    "role": "PhD",
+    "year": 2019,
+    "alumni": true,
+    "departure": "Fall 2025",
+    "research": "Robot learning, dexterous manipulation, mobile manipulation, event-based vision",
+    "homepage": "https://wlxing1901.github.io/",
+    "emails": [
+      "wlxing@connect.hku.hk"
+    ],
+    "destination": "Sharpa",
+    "source_photo": "img_2026-10-08 12.07.00_frog .jpeg",
+    "photo": "Wanli_Xing.jpg",
+    "portrait": "Wanli_Xing.webp",
+    "row": 33
+  },
+  {
+    "name": "Wentao Chen",
+    "role": "PhD",
+    "year": 2021,
+    "alumni": false,
+    "departure": "",
+    "research": "Opto-fiber tactile sensing",
+    "homepage": "",
+    "emails": [
+      "chen1853@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "入台证照片_2026-10-08 12.13.08_文韬.jpg",
+    "photo": "Wentao_Chen.jpg",
+    "portrait": "Wentao_Chen.webp",
+    "row": 34
+  },
+  {
+    "name": "Ruixing Jia",
+    "role": "PhD",
+    "year": 2020,
+    "alumni": false,
+    "departure": "",
+    "research": "Human-robot interaction, collision avoidance, teleoperation",
+    "homepage": "",
+    "emails": [
+      "ruixing@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "b_2026-10-08 12.34.35_夕贝.jpg",
+    "photo": "Ruixing_Jia.jpg",
+    "portrait": "Ruixing_Jia.webp",
+    "row": 35
+  },
+  {
+    "name": "Siyi Qian",
+    "role": "PhD",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Loco-manipulation, human-robot interaction, RL",
+    "homepage": "",
+    "emails": [
+      "siyi.qian@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "43ratio_2026-10-09 01.35.09_一念至笑.jpeg",
+    "photo": "Siyi_Qian.jpg",
+    "portrait": "Siyi_Qian.webp",
+    "row": 36
+  },
+  {
+    "name": "Junde Guo",
+    "role": "PhD",
+    "year": 2026,
+    "alumni": false,
+    "departure": "Fall 2030",
+    "research": "Loco-manipulation, humanoid control, RL",
+    "homepage": "",
+    "emails": [
+      "jundeguora9@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "picture-0_2026-10-09 11.25.31_Risu.png",
+    "photo": "Junde_Guo.png",
+    "portrait": "Junde_Guo.webp",
+    "row": 37
+  },
+  {
+    "name": "Jinchuan Zhang",
+    "role": "Master",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Quadruped robots, navigation",
+    "homepage": "",
+    "emails": [
+      "u3014483@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "Weixin Image_20260921132822_8111_6_2026-10-10 09.47.25_司机麻吉.jpg",
+    "photo": "Jinchuan_Zhang.jpg",
+    "portrait": "Jinchuan_Zhang.webp",
+    "row": 38
+  },
+  {
+    "name": "Ian Leong Ting Lo",
+    "role": "Master",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Navigation, manipulation, human-robot interaction",
+    "homepage": "https://ianlo.net",
+    "emails": [
+      "iltlo@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_7667_2026-10-11 02.16.23_亮.JPG",
+    "photo": "Ian_Leong_Ting_Lo.jpg",
+    "portrait": "Ian_Leong_Ting_Lo.webp",
+    "row": 39
+  },
+  {
+    "name": "Yinqiang Zhang",
+    "role": "PhD",
+    "year": 2021,
+    "alumni": true,
+    "departure": "Spring 2026",
+    "research": "SLAM, 3D reconstruction, building information models, robot navigation",
+    "homepage": "https://workspace.zyq507.top",
+    "emails": [
+      "yinqiangzhang507@126.com"
+    ],
+    "destination": "Entrepreneurship in embodied AI",
+    "source_photo": "Passbild1_2026-10-11 16.23.48_张引强 Yinqiang.jpg",
+    "photo": "Yinqiang_Zhang.jpg",
+    "portrait": "Yinqiang_Zhang.webp",
+    "row": 40
+  }
+]

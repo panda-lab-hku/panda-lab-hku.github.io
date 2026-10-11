@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+# Local collection exports and original uploads.
+raw/

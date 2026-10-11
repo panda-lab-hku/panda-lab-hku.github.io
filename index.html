@@ -1,30 +1,118 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="PANDA Lab — Physical AI and Autonomous Robotics. Website coming soon.">
-  <meta name="theme-color" content="#f6f7f3">
-  <title>PANDA Lab — Physical AI and Autonomous Robotics</title>
-  <style>
-    :root{color-scheme:light;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#183329;background:#f6f7f3;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
-    *{box-sizing:border-box}body{margin:0}
-    main{min-height:100vh;min-height:100svh;display:flex;align-items:center;padding:clamp(28px,8vw,112px)}
-    .intro{width:min(100%,1040px);margin:0 auto}
-    .mark{display:block;width:48px;height:6px;margin-bottom:clamp(38px,7vw,72px);border-radius:3px;background:#33785c}
-    h1{margin:0;font-size:clamp(54px,10vw,120px);font-weight:650;line-height:1.05;letter-spacing:-.065em}
-    h1 span{font-weight:350;color:#527562}
-    .name{max-width:720px;margin:24px 0 0;font-size:clamp(20px,3.2vw,32px);font-weight:400;line-height:1.45;letter-spacing:-.02em}
-    .status{display:flex;align-items:center;gap:12px;margin:clamp(48px,9vw,96px) 0 0;padding-top:24px;border-top:1px solid #d6ded5;font-size:15px;line-height:1.6; color:#53665b}
-    .status::before{content:"";flex:0 0 7px;width:7px;height:7px;border-radius:50%;background:#33785c}
-  </style>
+  <meta name="description" content="PANDA Lab at The University of Hong Kong develops robotic systems for reliable real-world interaction, with a focus on manipulation and navigation.">
+  <title>PANDA Lab | The University of Hong Kong</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <script src="theme.js"></script>
+  <script src="demos.js" defer></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&amp;family=Source+Sans+3:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 </head>
 <body>
-  <main><div class="intro">
-    <span class="mark" aria-hidden="true"></span>
-    <h1>PANDA <span>Lab</span></h1>
-    <p class="name">Physical AI and Autonomous Robotics</p>
-    <p class="status">Website coming soon.</p>
-  </div></main>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-row">
+      <a class="brand" href="index.html" aria-label="PANDA Lab home" aria-current="page">
+        <span class="brand-name">PANDA <em>Lab</em></span>
+        <span class="brand-affiliation">HKU</span>
+      </a>
+      <nav class="site-nav" id="site-navigation" aria-label="Main navigation">
+        <a href="people.html">People</a>
+        <a href="publications.html">Publications</a>
+        <a href="research.html">Research Topics</a>
+        <a href="join.html">Join</a>
+        <a href="blog.html">Blog</a>
+      </nav>
+      <button class="icon-button theme-toggle" type="button" aria-label="Switch color theme">
+        <svg class="moon-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14A8.7 8.7 0 0 1 10 3.5 8.7 8.7 0 1 0 20.5 14Z"/></svg>
+        <svg class="sun-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+      </button>
+      <button class="icon-button menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="site-navigation">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="container" id="main-content" tabindex="-1">
+    <section class="hero" aria-labelledby="lab-title">
+      <p class="eyebrow">The University of Hong Kong</p>
+      <h1 id="lab-title">PANDA <em>Lab</em></h1>
+      <p class="hero-tagline">Physical AI and Autonomous Robotics</p>
+      <p class="hero-text">Welcome to PANDA Lab at <a href="https://www.hku.hk/">The University of Hong Kong</a>. We develop robotic systems that can interact <em>reliably</em> with the physical world, with a focus on <em>manipulation</em> and <em>navigation</em>. Our research brings together perception, learning, planning, and control to help robots understand their surroundings, handle objects, and operate in complex, changing environments. Through algorithm development and experiments on real robots, we aim to make autonomous systems more capable, adaptable, and dependable. Explore our <a href="publications.html">publications</a> and <a href="research.html">research topics</a> to learn more.</p>
+    </section>
+
+    <section class="home-showcase" aria-labelledby="highlights-title">
+      <div class="section-heading">
+        <h2 id="highlights-title">Research Highlights</h2>
+        <a class="text-link" href="research.html">Explore research <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="showcase">
+        <figure class="showcase-item">
+          <div class="showcase-media">
+            <video controls autoplay loop muted playsinline preload="metadata" poster="assets/demos/aloha.jpg" width="568" height="320" aria-label="ALOHA research demo">
+              <source src="assets/demos/aloha.mp4" type="video/mp4">
+              Your browser does not support embedded video. <a href="assets/demos/aloha.mp4">Download the ALOHA demo.</a>
+            </video>
+          </div>
+        </figure>
+        <figure class="showcase-item">
+          <div class="showcase-media">
+            <video controls autoplay loop muted playsinline preload="metadata" poster="assets/demos/gausmi.jpg" width="1280" height="720" aria-label="GauSS-MI research demo">
+              <source src="assets/demos/gausmi.mp4" type="video/mp4">
+              Your browser does not support embedded video. <a href="assets/demos/gausmi.mp4">Download the GauSS-MI demo.</a>
+            </video>
+          </div>
+        </figure>
+        <figure class="showcase-item">
+          <div class="showcase-media">
+            <video controls autoplay loop muted playsinline preload="metadata" poster="assets/demos/lasp.jpg" width="1280" height="720" aria-label="LASP research demo">
+              <source src="assets/demos/lasp.mp4" type="video/mp4">
+              Your browser does not support embedded video. <a href="assets/demos/lasp.mp4">Download the LASP demo.</a>
+            </video>
+          </div>
+        </figure>
+        <figure class="showcase-item">
+          <div class="showcase-media">
+            <video controls autoplay loop muted playsinline preload="metadata" poster="assets/demos/rapid.jpg" width="1280" height="720" aria-label="RAPID research demo">
+              <source src="assets/demos/rapid.mp4" type="video/mp4">
+              Your browser does not support embedded video. <a href="assets/demos/rapid.mp4">Download the RAPID demo.</a>
+            </video>
+          </div>
+        </figure>
+        <figure class="showcase-item">
+          <div class="showcase-media">
+            <video controls autoplay loop muted playsinline preload="metadata" poster="assets/demos/softmimic.jpg" width="1242" height="720" aria-label="SoftMimic research demo">
+              <source src="assets/demos/softmimic.mp4" type="video/mp4">
+              Your browser does not support embedded video. <a href="assets/demos/softmimic.mp4">Download the SoftMimic demo.</a>
+            </video>
+          </div>
+        </figure>
+      </div>
+    </section>
+
+    <section class="news-section" aria-labelledby="news-title">
+      <h2 id="news-title">News</h2>
+      <!-- Replace this empty state with dated announcements. -->
+      <div class="news-empty">
+        <span class="news-label">Stay tuned</span>
+        <p>News and updates from PANDA Lab will appear here.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-row">
+      <div class="footer-identity">
+        <strong>PANDA Lab</strong>
+        <a href="https://www.hku.hk/">The University of Hong Kong</a>
+      </div>
+      <p class="footer-note">Physical AI and Autonomous Robotics</p>
+    </div>
+  </footer>
 </body>
 </html>

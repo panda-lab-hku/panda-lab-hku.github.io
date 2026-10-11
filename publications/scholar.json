@@ -1,0 +1,1888 @@
+{
+  "source_url": "https://scholar.google.com/citations?hl=zh-CN&user=YYT8-7kAAAAJ&view_op=list_works&sortby=pubdate",
+  "profile_name": "Jia Pan",
+  "retrieved_at": "2026-09-30T09:10:23+00:00",
+  "first_year": 2020,
+  "through_year": 2026,
+  "profile_record_count": 297,
+  "undated_records_excluded": 7,
+  "publication_count": 204,
+  "publications": [
+    {
+      "id": "YYT8-7kAAAAJ:1Ye0OR6EYb4C",
+      "title": "Automatic Labelling for Bimanual Mobile Manipulation",
+      "authors": "Y Lu, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2609.24059, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A1Ye0OR6EYb4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:jFemdcug13IC",
+      "title": "2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality",
+      "authors": "Y Xie, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2609.21516, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AjFemdcug13IC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:DBa1UEJaJKAC",
+      "title": "SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control",
+      "authors": "R Han, R Gao, Z Liu, X Wang, C Chen, S Wang, Q Hao, J Pan, H Zhao",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2608.21175, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ADBa1UEJaJKAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:48xauSegjOkC",
+      "title": "ipad: Iterative proposal-centric end-to-end autonomous driving",
+      "authors": "K Guo, H Liu, X Wu, J Pan, C Lv",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A48xauSegjOkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:rHJHxKgnXwkC",
+      "title": "SSC: A Verifiable Structured Representation for Bimanual Manipulation Labelling",
+      "authors": "Y Lu, S Wu, S Chen, R Han, Y Zhang, M Kalander, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2608.04425, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ArHJHxKgnXwkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:6bLC7aUMtPcC",
+      "title": "Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations",
+      "authors": "Y Chen, H Xu, D Yu, Y Lu, T Xu, Z Zhang, W Zhang, Y Ren, BM Chen, ...",
+      "authors_truncated": true,
+      "venue": "arXiv preprint arXiv:2607.25397, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A6bLC7aUMtPcC",
+      "authors_full": "Yizhou Chen, Hang Xu, Dongjie Yu, Yupu Lu, Tengye Xu, Zeqing Zhang, Wei Zhang, Yi Ren, Ben M Chen, Jia Pan",
+      "paper_url": "https://arxiv.org/abs/2607.25397"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:1yWc8FF-_SYC",
+      "title": "Keypose Exploration: Efficient Automatic Trajectory Labelling and Cross-Embodiment Policy Transfer",
+      "authors": "Y Lu, H Xu, Y Chen, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2606.29028, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A1yWc8FF-_SYC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:hsZV8lGYWTMC",
+      "title": "SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation",
+      "authors": "K Wang, Z Ouyang, X Wu, J Hong, W Pan, H Lu, J Pan, W Zhang, L Zheng",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2606.26800, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AhsZV8lGYWTMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:-mN3Mh-tlDkC",
+      "title": "BIM-Loc: BIM-integrated discrepancy-aware LiDAR-based indoor localization",
+      "authors": "Y Zhang, L Lu, Y Pan, M Lei, Y Xie, Z Xie, X Luo, J Pan",
+      "authors_truncated": false,
+      "venue": "The International Journal of Robotics Research, 02783649261462593, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A-mN3Mh-tlDkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:prdVHNxh-e8C",
+      "title": "Learning to Count Without Labels: Self-Supervised Skill Abstraction and Bayesian Counting for Garment Production Monitoring",
+      "authors": "Z Li, Y Wen, L Yang, J Pan, P Zhou",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Industrial Informatics, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AprdVHNxh-e8C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Ade32sEp0pkC",
+      "title": "IR-SIM: A Lightweight Skill-Native Simulator for Navigation, Learning, and Benchmarking",
+      "authors": "R Han, S Wang, C Li, R Gao, X Wang, Z Liu, G Li, Y Lu, Q Hao, J Pan, ...",
+      "authors_truncated": true,
+      "venue": "arXiv preprint arXiv:2606.08729, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AAde32sEp0pkC",
+      "authors_full": "Ruihua Han, Shuai Wang, Chengyang Li, Rui Gao, Xinyi Wang, Zhe Liu, Guoliang Li, Yupu Lu, Qi Hao, Jia Pan, Hengshuang Zhao",
+      "paper_url": "https://arxiv.org/abs/2606.08729"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:q-HalDI95KYC",
+      "title": "World models for robotic manipulation: A survey",
+      "authors": "F Wang, Z Wang, G Pei, M Zhang, C Liang, J Hu, Z Li, J Wu, N Han, ...",
+      "authors_truncated": true,
+      "venue": "SmartBot, e70053, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aq-HalDI95KYC",
+      "authors_full": "Fangyuan Wang, Ziyuan Wang, Guorui Pei, Mengshi Zhang, Canxi Liang, Jun Hu, Zhongxuan Li, Jinsong Wu, Ning Han, Zeqing Zhang, Jiaming Qi, Hongmin Wu, Shiyao Zhang, Pai Zheng, Jia Pan, David Navarro‐Alarcon, Sichao Liu, Peng Zhou",
+      "paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smb2.70053"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:CdxZDUztZiMC",
+      "title": "Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation",
+      "authors": "C Deng, G Chen, Y Chen, Z Liu, Z Ruan, G Chen, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2605.23477, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ACdxZDUztZiMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:lvd772isFD0C",
+      "title": "Event-based auto-exposure for digital photography",
+      "authors": "J Pan, S Lin",
+      "authors_truncated": false,
+      "venue": "US Patent 12,634,587, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Alvd772isFD0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:jU7OWUQzBzMC",
+      "title": "Shared Autonomy Assisted by Impedance-Driven Anisotropic Guidance Field",
+      "authors": "S Chen, H Xu, Y Lu, C Wang, B Duan, R Jia, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AjU7OWUQzBzMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:L1USKYWJimsC",
+      "title": "BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic",
+      "authors": "D Yu, H Xu, Y Chen, Y Ren, J Pan",
+      "authors_truncated": false,
+      "venue": "Algorithmic Foundations of Robotics XVI, Volume 2: Proceedings of the …, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AL1USKYWJimsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:cK4Rrx0J3m0C",
+      "title": "Mixed crowd navigation: Perception, interaction, planning, and control",
+      "authors": "J Pan, W Li, W Liu, I Islam, K Guo, Y Yang, S Zhang, X Ji, D Wang",
+      "authors_truncated": false,
+      "venue": "Annual Review of Control, Robotics, and Autonomous Systems 9 (1), 325-349, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AcK4Rrx0J3m0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:PaBasH6fAo0C",
+      "title": "Lattice Boltzmann Model for Learning Real-World Pixel Dynamicity",
+      "authors": "G Zheng, S Lin, H Zuo, S Si, MS Wang, C Fu, J Pan",
+      "authors_truncated": false,
+      "venue": "Advances in Neural Information Processing Systems 38, 4885-4910, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3APaBasH6fAo0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:owLR8QvbtFgC",
+      "title": "DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion",
+      "authors": "Y Ping, Y Liu, X Long, P Wang, J Hou, J Zheng, J Pan, X Li, C Lin",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Visualization and Computer Graphics, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AowLR8QvbtFgC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:PYBJJbyH-FwC",
+      "title": "RichMap: A Reachability Map Balancing Precision, Efficiency, and Flexibility for Rich Robot Manipulation Tasks",
+      "authors": "Y Lu, Y Ma, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2604.06778, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3APYBJJbyH-FwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Br1UauaknNIC",
+      "title": "From video to control: A survey of learning manipulation interfaces from temporal visual data",
+      "authors": "L Zheng, Z Ouyang, C Wang, J Pan, W Zhang",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2604.04974, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ABr1UauaknNIC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:7H_MAutzIkAC",
+      "title": "CLIO: Coordinate User Visual Attention with Audio Narratives for Enhanced Engagement",
+      "authors": "Y Chen, ILT Lo, B Guo, N Kawmali, CK Chan, R Wang, J Pan, L Yang",
+      "authors_truncated": false,
+      "venue": "Companion Proceedings of the 21st ACM/IEEE International Conference on Human …, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A7H_MAutzIkAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:WC9gN4BGCRcC",
+      "title": "NeuPAN: Direct Point Robot Navigation with End-to-End Model-Based Learning (Abstract Reprint)",
+      "authors": "R Han, S Wang, S Wang, Z Zhang, J Chen, S Lin, C Li, C Xu, YC Eldar, ...",
+      "authors_truncated": true,
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (47), 39866 …, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AWC9gN4BGCRcC",
+      "authors_full": "Ruihua Han, Shuai Wang, Shuaijun Wang, Zeqing Zhang, Jianjun Chen, Shijie Lin, Chengyang Li, Chengzhong Xu, Yonina C Eldar, Qi Hao, Jia Pan",
+      "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/41381"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:WHdLCjDvYFkC",
+      "title": "Failure-aware bimanual teleoperation via conservative value guided assistance",
+      "authors": "P Zhou, Z Li, J Wu, J Qi, J Hu, D Navarro-Alarcon, J Pan, L Xie, S Zhang, ...",
+      "authors_truncated": true,
+      "venue": "arXiv preprint arXiv:2602.01092, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AWHdLCjDvYFkC",
+      "authors_full": "Peng Zhou, Zhongxuan Li, Jinsong Wu, Jiaming Qi, Jun Hu, David Navarro-Alarcon, Jia Pan, Lihua Xie, Shiyao Zhang, Zeqing Zhang",
+      "paper_url": "https://arxiv.org/abs/2602.01092"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:zCSUwVk65WsC",
+      "title": "A dataset and benchmark for robotic cloth unfolding grasp selection: The ICRA 2024 Cloth Competition",
+      "authors": "VL De Gusseme, T Lips, R Proesmans, J Hietala, G Lee, J Choi, J Choi, ...",
+      "authors_truncated": true,
+      "venue": "The International Journal of Robotics Research, 02783649251414885, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AzCSUwVk65WsC",
+      "authors_full": "Victor-Louis De Gusseme, Thomas Lips, Remko Proesmans, Julius Hietala, Giwan Lee, Jiyoung Choi, Jeongil Choi, Geon Kim, Phayuth Yonrith, Domen Tabernik, Andrej Gams, Peter Nimac, Matej Urbas, Jon Muhovič, Danijel Skočaj, Matija Mavsar, Hyojeong Yu, Minseo Kwon, Young J Kim, Yang Cong, Ronghan Chen, Yu Ren, Supeng Diao, Jiawei Weng, Jiayue Liu, Haoran Sun, Linhan Yang, Zeqing Zhang, Ning Guo, Lei Yang, Fang Wan, Chaoyang Song, Jia Pan, Yixiang Jin, Yong A, Jun Shi, Dingzhe Li, Yong Yang, Kakeru Yamasaki, Takumi Kajiwara, Yuki Nakadera, Krati Saxena, Tomohiro Shibata, Chongkun Xia, Kai Mo, Yanzhao Yu, Qihao Lin, Binqiang Ma, Uihun Sagong, Jung Hyun Choi, Jeong Hyun Park, Dongwoo Lee, Yeongmin Kim, Myun Joong Hwang, Yusuke Kuribayashi, Naoki Hiratsuka, Daisuke Tanaka, Solvi Arnold, Kimitoshi Yamazaki, Carlos Mateo-Agullo, Andreas Verleysen, Francis Wyffels",
+      "paper_url": "https://journals.sagepub.com/doi/abs/10.1177/02783649251414885"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:vDZJ-YLwNdEC",
+      "title": "Eroam: Event-based camera rotational odometry and mapping in real-time",
+      "authors": "W Xing, S Lin, L Yang, Z Zhang, Y Du, M Lei, Y Pan, C Wang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Robotics, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AvDZJ-YLwNdEC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:AXkvAH5U_nMC",
+      "title": "GaussFiller: Unleashing VLM-Expert Guidance for 3D Scene Completion with 3D Gaussian Splatting",
+      "authors": "Y Ping, C Lin, Y Liu, Z Dou, J Pan, W Wang",
+      "authors_truncated": false,
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AAXkvAH5U_nMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:LdasjJ6CEcoC",
+      "title": "Operational performance, cognitive load, visual attention, and usability of fixed-, manual-, and autonomous-camera control in single-and multiple-camera telemanipulation systems",
+      "authors": "H Liu, X Wang, C Or, J Pan, R Jia, W Wang, L Yang",
+      "authors_truncated": false,
+      "venue": "Applied Ergonomics 130, 104647, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ALdasjJ6CEcoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:43bX7VzcjpAC",
+      "title": "S 2 MAT: Simultaneous and Self‐Reinforced Mapping and Tracking in Dynamic Urban Scenarios",
+      "authors": "T Fan, B Shen, Y Zhang, C Zhang, L Yang, H Chen, W Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "Journal of Field Robotics 43 (1), 454-485, 2026",
+      "year": 2026,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A43bX7VzcjpAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:MhiOAD_qIWkC",
+      "title": "Lessons Learned From the euROBIN Manipulation Skill Versatility Challenge At IROS 2024",
+      "authors": "X Han, H Sun, N Guo, S Ge, J Pan, F Wan, C Song",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Practice 1, 18-22, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AMhiOAD_qIWkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:buQ7SEKw-1sC",
+      "title": "Internal State Estimation in Crowds via Active Information Gathering",
+      "authors": "X Ji, Z Pan, X Gao, L Yang, X Du, K Li, Y Liu, W Wang, C Tu, J Pan",
+      "authors_truncated": false,
+      "venue": "ACM Transactions on Human-Robot Interaction 15 (2), 1-33, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AbuQ7SEKw-1sC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:WC23djZS0W4C",
+      "title": "CLIO: A Tour Guide Robot with Co-speech Actions for Visual Attention Guidance and Enhanced User Engagement",
+      "authors": "Y Chen, ILT Lo, B Guo, N Kawmali, CK Chan, R Wang, J Pan, L Yang",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2512.05389, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AWC23djZS0W4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:IaI1MmNe2tcC",
+      "title": "Collaborative Assembly Policy Learning of a Sightless Robot",
+      "authors": "Z Zhang, W Lu, L Yang, W Jing, B Tang, J Pan",
+      "authors_truncated": false,
+      "venue": "2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), 234-241, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AIaI1MmNe2tcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:7BrZ7Jt4UNcC",
+      "title": "Unibidex: A unified teleoperation framework for robotic bimanual dexterous manipulation",
+      "authors": "Z Li, Z Guo, J Hu, D Navarro-Alarcon, J Pan, H Wu, P Zhou",
+      "authors_truncated": false,
+      "venue": "2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), 776-782, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A7BrZ7Jt4UNcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:6yz0xqPARnAC",
+      "title": "Lyapunov Stability Learning with Nonlinear Control via Inductive Biases",
+      "authors": "Y Lu, S Lin, H Xu, Z Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), 1358 …, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A6yz0xqPARnAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:1taIhTC69MYC",
+      "title": "BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies",
+      "authors": "H Xu, Y Chen, D Yu, Y Ren, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Automation Science and Engineering 23, 1064 - 1079, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A1taIhTC69MYC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:kw52XkFRtyQC",
+      "title": "EventSync: Joint Recovery of Temporal Offsets and Relative Orientations for Wide-Baseline Event Cameras",
+      "authors": "W Xing, S Lin, G Zheng, L Yang, Y Du, J Pan",
+      "authors_truncated": false,
+      "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Akw52XkFRtyQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:j7_hQOaDUrUC",
+      "title": "Design and research of a multi-modal variable stiffness soft gripper",
+      "authors": "H Xu, L Jiang, J Tang, J Pan, W Zeng",
+      "authors_truncated": false,
+      "venue": "Journal of Intelligent & Robotic Systems 111 (4), 113, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aj7_hQOaDUrUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:nRpfm8aw39MC",
+      "title": "One-DoF robotic design of overconstrained limbs with energy-efficient, self-collision-free motion",
+      "authors": "Y Gu, B Huang, H Sun, R Xu, J Yin, W Zhang, F Wan, J Pan, C Song",
+      "authors_truncated": false,
+      "venue": "Fundamental Research, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AnRpfm8aw39MC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:4xDN1ZYqzskC",
+      "title": "Distributed cooperative pursuit with encirclement guarantee via robust model predictive control",
+      "authors": "C Wang, H Chen, J Pan, W Zhang",
+      "authors_truncated": false,
+      "venue": "Robotics and Autonomous Systems 192, 105019, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A4xDN1ZYqzskC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:jgBuDB5drN8C",
+      "title": "Collabot: Vision-language guided simultaneous collaborative manipulation",
+      "authors": "K Song, G Chen, S Ma, N Jin, G Zhao, M Ding, Z Xiong, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2508.03526, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AjgBuDB5drN8C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:BzfGm06jWhQC",
+      "title": "A Rule-Based Optimization Method for Tooth Alignment",
+      "authors": "Y Ping, G Wei, G Wei, C Zhang, J Pan, S Xin, Y Zhou, C Tu, M Gu, ...",
+      "authors_truncated": true,
+      "venue": "IEEE Transactions on Visualization and Computer Graphics 31 (10), 9124-9139, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ABzfGm06jWhQC",
+      "authors_full": "Yuhan Ping, Guodong Wei, Guangshun Wei, Congyi Zhang, Jia Pan, Shiqing Xin, Yuanfeng Zhou, Changhe Tu, Min Gu, Wenping Wang",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/11087710/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ubry08Y2EpUC",
+      "title": "A coarse-to-fine robotic fabric alignment system integrating visual servoing and admittance control",
+      "authors": "J Qi, L Lu, L Yang, Y Ding, P Zheng, D Navarro-Alarcon, J Pan, P Zhou",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Automation Science and Engineering 22, 17814-17827, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aubry08Y2EpUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:lgwcVrK6X84C",
+      "title": "A survey: Learning embodied intelligence from physical simulators and world models",
+      "authors": "X Long, Q Zhao, K Zhang, Z Zhang, D Wang, Y Liu, Z Shu, Y Lu, S Wang, ...",
+      "authors_truncated": true,
+      "venue": "arXiv preprint arXiv:2507.00917, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AlgwcVrK6X84C",
+      "authors_full": "Xiaoxiao Long, Qingrui Zhao, Kaiwen Zhang, Zihao Zhang, Dingrui Wang, Yumeng Liu, Zhengjie Shu, Yi Lu, Shouzheng Wang, Xinzhe Wei, Wei Li, Wei Yin, Yao Yao, Jia Pan, Qiu Shen, Ruigang Yang, Xun Cao, Qionghai Dai",
+      "paper_url": "https://arxiv.org/abs/2507.00917"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:XUvXOeBm_78C",
+      "title": "Svip: Sequencing bimanual visuomotor policies with object-centric motion primitives",
+      "authors": "Y Chen, H Xu, D Yu, Z Zhang, Y Ren, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2506.18825, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AXUvXOeBm_78C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:CaZNVDsoPx4C",
+      "title": "A joint learning of force feedback of robotic manipulation and textual cues for granular materials classification",
+      "authors": "Z Zhang, G Chen, W Chen, R Jia, G Chen, L Zhang, J Pan, P Zhou",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 10 (7), 7166-7173, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ACaZNVDsoPx4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:U4n9YNQMCAIC",
+      "title": "A Potential Field Method for Tooth Motion Planning in Orthodontic Treatment",
+      "authors": "Y Liu, Y Ma, L Yang, C Zhang, G Wei, R Chen, M Gu, J Pan, Z Yang, ...",
+      "authors_truncated": true,
+      "venue": "IEEE Transactions on Visualization and Computer Graphics 31 (10), 8480-8490, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AU4n9YNQMCAIC",
+      "authors_full": "Yumeng Liu, Yuexin Ma, Lei Yang, Congyi Zhang, Guangshun Wei, Runnan Chen, Min Gu, Jia Pan, Zhengbao Yang, Taku Komura, Shiqing Xin, Yuanfeng Zhou, Changhe Tu, Wenping Wang",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/11007209/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:2tRrZ1ZAMYUC",
+      "title": "Optimizing Efficiency of Mixed Traffic through Reinforcement Learning: A Topology-Independent Approach and Benchmark",
+      "authors": "C Xiao, D Wang, X Tang, J Pan, Y Ma",
+      "authors_truncated": false,
+      "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA), 3452-3458, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A2tRrZ1ZAMYUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:wMgC3FpKEyYC",
+      "title": "Autonomous tomato harvesting with top–down fusion network for limited data",
+      "authors": "X Li, Y Han, N Ma, Y Liu, J Pan, S Yang, S Zheng",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Robotics 41, 3609-3628, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AwMgC3FpKEyYC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:FiytvqdAVhgC",
+      "title": "Exploring grounding abilities in vision-language models through contextual perception",
+      "authors": "W Xu, T Zhou, T Zhang, J Li, P Chen, J Pan, X Liu",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Cognitive and Developmental Systems 17 (6), 1461-1473, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AFiytvqdAVhgC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:QD3KBmkZPeQC",
+      "title": "Gauss-mi: Gaussian splatting shannon mutual information for active 3d reconstruction",
+      "authors": "Y Xie, Y Cai, Y Zhang, L Yang, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2504.21067, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AQD3KBmkZPeQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:yFnVuubrUp4C",
+      "title": "Learning to control and coordinate mixed traffic through robot vehicles at complex and unsignalized intersections",
+      "authors": "D Wang, W Li, L Zhu, J Pan",
+      "authors_truncated": false,
+      "venue": "The International Journal of Robotics Research 44 (5), 805-825, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AyFnVuubrUp4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:OcBU2YAGkTUC",
+      "title": "Neupan: Direct point robot navigation with end-to-end model-based learning",
+      "authors": "R Han, S Wang, S Wang, Z Zhang, J Chen, S Lin, C Li, C Xu, YC Eldar, ...",
+      "authors_truncated": true,
+      "venue": "IEEE transactions on robotics 41, 2804-2824, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AOcBU2YAGkTUC",
+      "authors_full": "Ruihua Han, Shuai Wang, Shuaijun Wang, Zeqing Zhang, Jianjun Chen, Shijie Lin, Chengyang Li, Chengzhong Xu, Yonina C Eldar, Qi Hao, Jia Pan",
+      "paper_url": "https://ieeexplore.ieee.org/document/10938329/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:PVgj2kMGcgYC",
+      "title": "Aerial vision-and-language navigation with grid-based view selection and map construction",
+      "authors": "G Zhao, G Li, J Pan, Y Yu",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2503.11091, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3APVgj2kMGcgYC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:0CzhzZyukY4C",
+      "title": "Generative artificial intelligence in robotic manipulation: A survey",
+      "authors": "K Zhang, P Yun, J Cen, J Cai, D Zhu, H Yuan, C Zhao, T Feng, MY Wang, ...",
+      "authors_truncated": true,
+      "venue": "arXiv preprint arXiv:2503.03464, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A0CzhzZyukY4C",
+      "authors_full": "Kun Zhang, Peng Yun, Jun Cen, Junhao Cai, Didi Zhu, Hangjie Yuan, Chao Zhao, Tao Feng, Michael Yu Wang, Qifeng Chen, Jia Pan, Wei Zhang, Bo Yang, Hua Chen",
+      "paper_url": "https://arxiv.org/abs/2503.03464"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:5icHVeHT4IsC",
+      "title": "Interaction model estimation-based robotic force-position coordinated optimization for rigid–soft heterogeneous contact tasks",
+      "authors": "H Zheng, X Zhai, H Wu, J Pan, Z Xu, X Zhou",
+      "authors_truncated": false,
+      "venue": "Biomimetic Intelligence and Robotics 5 (1), 100194, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A5icHVeHT4IsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:5MTHONV0fEkC",
+      "title": "Signage-aware exploration in open world using venue maps",
+      "authors": "C Chen, L Lu, L Yang, Y Zhang, Y Chen, R Jia, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 10 (4), 3414-3421, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A5MTHONV0fEkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Ak0FvsSvgGUC",
+      "title": "Vision-based weld detection and localization for climbing robots in large-scale storage tank inspections",
+      "authors": "R Wang, N Ma, Z Xu, X Zhou, J Pan, S Gu",
+      "authors_truncated": false,
+      "venue": "Measurement Science and Technology 36 (1), 016333, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AAk0FvsSvgGUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:AHdEip9mkN0C",
+      "title": "Swarm robotic flocking with aggregation ability privacy",
+      "authors": "S Zhang, Y Huang, W Li, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Automation Science and Engineering 22, 10596-10608, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AAHdEip9mkN0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:yxmsSjX2EkcC",
+      "title": "LP-ICP: General localizability-aware point cloud registration for robust localization in extreme unstructured environments",
+      "authors": "H Yue, Q Xu, F Chen, J Pan, W Chen",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2501.02580, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AyxmsSjX2EkcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:OP4eGU-M3BUC",
+      "title": "Global Path Planning of climbing robot for weld Quality Inspection in Large Scale Storage Tanks.",
+      "authors": "R Wang, S Gu, X Liu, H Zhang, Z Xu, J Pan, X Zhou",
+      "authors_truncated": false,
+      "venue": "Int. J. Robotics Autom. 40 (3), 242-253, 2025",
+      "year": 2025,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AOP4eGU-M3BUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:F1b5ZUV5XREC",
+      "title": "Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright",
+      "authors": "S Lin, G Zheng, Z Wang, R Han, W Xing, Z Zhang, Y Peng, J Pan",
+      "authors_truncated": false,
+      "venue": "Nature Communications 15 (1), 10781, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AF1b5ZUV5XREC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:gVv57TyPmFsC",
+      "title": "HHD-GP: incorporating Helmholtz-Hodge decomposition into Gaussian processes for learning dynamical systems",
+      "authors": "H Xu, J Pan",
+      "authors_truncated": false,
+      "venue": "Advances in Neural Information Processing Systems 37, 67282-67318, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AgVv57TyPmFsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:NyGDZy8z5eUC",
+      "title": "Synergistic Temporal Logic Planning for an Aerial Gripper",
+      "authors": "Y Chen, J Tang, R Wang, Z Guo, X Wang, S Gao, X Liu, J Pan, BM Chen",
+      "authors_truncated": false,
+      "venue": "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), 577-582, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ANyGDZy8z5eUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:HtS1dXgVpQUC",
+      "title": "CafkNet: GNN-empowered forward kinematic modeling for cable-driven parallel robots",
+      "authors": "Z Zhang, L Yang, C Sun, W Shang, L Jiang, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), 1712 …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AHtS1dXgVpQUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Bg7qf7VwUHIC",
+      "title": "Understanding particles from video: Property estimation of granular materials via visuo-haptic learning",
+      "authors": "Z Zhang, G Zheng, X Ji, G Chen, R Jia, W Chen, G Chen, L Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 10 (1), 684-691, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ABg7qf7VwUHIC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:fbc8zXXH2BUC",
+      "title": "Global BIM-point cloud registration and association for construction progress monitoring",
+      "authors": "Y Zhang, L Lu, X Luo, J Pan",
+      "authors_truncated": false,
+      "venue": "Automation in Construction 168, 105796, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Afbc8zXXH2BUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:tH6gc1N1XXoC",
+      "title": "A haptic-based proximity sensing system for buried object in granular material",
+      "authors": "Z Zhang, R Jia, Y Yan, R Han, S Lin, Q Jiang, L Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2411.17083, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AtH6gc1N1XXoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:uDGL6kOW6j0C",
+      "title": "Research on enhanced gait phase segmentation based on multimodal spatiotemporal information fusion",
+      "authors": "H Zhang, X Liu, J Li, J Pan, CK Loo, A Cangelosi",
+      "authors_truncated": false,
+      "venue": "IEEE Internet of Things Journal 12 (7), 8773-8788, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AuDGL6kOW6j0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:2VqYfGB8ITEC",
+      "title": "Bimanual deformable bag manipulation using a structure-of-interest based neural dynamics model",
+      "authors": "P Zhou, P Zheng, J Qi, C Li, HY Lee, Y Pan, C Yang, D Navarro-Alarcon, ...",
+      "authors_truncated": true,
+      "venue": "IEEE/ASME transactions on mechatronics 30 (5), 3254-3265, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A2VqYfGB8ITEC",
+      "authors_full": "Peng Zhou, Pai Zheng, Jiaming Qi, Chengxi Li, Hoi-Yin Lee, Yipeng Pan, Chenguang Yang, David Navarro-Alarcon, Jia Pan",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/10758319/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:LgRImbQfgY4C",
+      "title": "A soft skin with self-decoupled three-axis force-sensing taxels",
+      "authors": "Y Yan, A Zermane, J Pan, A Kheddar",
+      "authors_truncated": false,
+      "venue": "Nature Machine Intelligence 6 (11), 1284-1295, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ALgRImbQfgY4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:nVrZBo8bIpAC",
+      "title": "Efficient planar fabric repositioning: Deformation-aware RRT* for non-prehensile fabric manipulation",
+      "authors": "Y Wang, L Yang, P Zhou, J Qi, L Lu, J Zhu, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 9 (12), 11258-11265, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AnVrZBo8bIpAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:MpfHP-DdYjUC",
+      "title": "Prompt-driven temporal domain adaptation for nighttime UAV tracking",
+      "authors": "C Fu, Y Wang, L Yao, G Zheng, H Zuo, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AMpfHP-DdYjUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:7Hz3ACDFbsoC",
+      "title": "DaDiff: Domain-aware diffusion model for nighttime UAV tracking",
+      "authors": "H Zuo, C Fu, G Zheng, L Yao, K Lu, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A7Hz3ACDFbsoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:jL-93Qbq4QoC",
+      "title": "Progressive representation learning for real-time UAV tracking",
+      "authors": "C Fu, X Lei, H Zuo, L Yao, G Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 IEEE/RSJ international conference on intelligent robots and systems …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AjL-93Qbq4QoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:GFxP56DSvIMC",
+      "title": "One fling to goal: Environment-aware dynamics for goal-conditioned fabric flinging",
+      "authors": "L Yang, L Yang, H Sun, Z Zhang, H He, F Wan, C Song, J Pan",
+      "authors_truncated": false,
+      "venue": "International Workshop on the Algorithmic Foundations of Robotics, 65-84, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AGFxP56DSvIMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:kVjdVfd2voEC",
+      "title": "Generative hierarchical temporal transformer for hand pose and action modeling",
+      "authors": "Y Wen, H Pan, T Ohkawa, L Yang, J Pan, Y Sato, T Komura, W Wang",
+      "authors_truncated": false,
+      "venue": "European Conference on Computer Vision, 49-67, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AkVjdVfd2voEC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:r_AWSJRzSzQC",
+      "title": "Learning autonomous viewpoint adjustment from human demonstrations for telemanipulation",
+      "authors": "R Jia, L Yang, Y Cao, C Kalun Or, W Wang, J Pan",
+      "authors_truncated": false,
+      "venue": "ACM Transactions on Human-Robot Interaction 13 (3), 1-23, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ar_AWSJRzSzQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:LPtt_HFRSbwC",
+      "title": "Semantic2D: Enabling Semantic Scene Understanding with 2D Lidar Alone",
+      "authors": "Z Xie, Y Pan, Y Zhang, J Pan, P Dames",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2409.09899, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ALPtt_HFRSbwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Aul-kAQHnToC",
+      "title": "Language-augmented symbolic planner for open-world task planning",
+      "authors": "G Chen, L Yang, R Jia, Z Hu, Y Chen, W Zhang, W Wang, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2407.09792, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AAul-kAQHnToC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:_OXeSy2IsFwC",
+      "title": "Text-guided synthesis of crowd animation",
+      "authors": "X Ji, Z Pan, X Gao, J Pan",
+      "authors_truncated": false,
+      "venue": "ACM SIGGRAPH 2024 Conference Papers, 1-11, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A_OXeSy2IsFwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:GtLg2Ama23sC",
+      "title": "SAM-DA: UAV tracks anything at night with SAM-powered domain adaptation",
+      "authors": "C Fu, L Yao, H Zuo, G Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 International Conference on Advanced Robotics and Mechatronics (ICARM …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AGtLg2Ama23sC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:KbBQZpvPDL4C",
+      "title": "Lasil: learner-aware supervised imitation learning for long-term microscopic traffic simulation",
+      "authors": "K Guo, Z Miao, W Jing, W Liu, W Li, D Hao, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AKbBQZpvPDL4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:3htObqc8RwsC",
+      "title": "Nettrack: Tracking highly dynamic objects with a net",
+      "authors": "G Zheng, S Lin, H Zuo, C Fu, J Pan",
+      "authors_truncated": false,
+      "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A3htObqc8RwsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:bKqednn6t2AC",
+      "title": "Mixed traffic control and coordination from pixels",
+      "authors": "M Villarreal, B Poudel, J Pan, W Li",
+      "authors_truncated": false,
+      "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA), 4488-4494, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AbKqednn6t2AC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:XoXfffV-tXoC",
+      "title": "Crowd-driven mapping, localization and social-friendly navigation system",
+      "authors": "J Pan, T Fan, D Wang",
+      "authors_truncated": false,
+      "venue": "US Patent 11,976,938, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AXoXfffV-tXoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:7wO8s98CvbsC",
+      "title": "Role Adaptation of Human-Robot Physical Interaction Based on the",
+      "authors": "W Lu, L Zhao, Z Hu, J Pan",
+      "authors_truncated": false,
+      "venue": "Intelligent Autonomous Systems 18: Volume 1 Proceedings of the 18th …, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A7wO8s98CvbsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:HeT0ZceujKMC",
+      "title": "Heterogeneous targets trapping with swarm robots by using adaptive density-based interaction",
+      "authors": "S Zhang, X Lei, X Peng, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Robotics 40, 2729-2748, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AHeT0ZceujKMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:fFSKOagxvKUC",
+      "title": "Learning to change: Choreographing mixed traffic through lateral control and hierarchical reinforcement learning",
+      "authors": "D Wang, W Li, L Zhu, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2403.14879, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AfFSKOagxvKUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:artPoR2Yc-kC",
+      "title": "Monocular bev perception of road scenes via front-to-top view projection",
+      "authors": "W Liu, Q Li, W Yang, J Cai, Y Yu, Y Ma, S He, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence 46 (9), 6109-6125, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AartPoR2Yc-kC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:OR75R8vi5nAC",
+      "title": "Revolutionizing Packaging: A Robotic Bagging Pipeline with Constraint-aware Structure-of-Interest Planning",
+      "authors": "J Qi, P Zhou, P Zheng, H Wu, C Yang, D Navarro-Alarcon, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2403.10309, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AOR75R8vi5nAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ODE9OILHJdcC",
+      "title": "Semantics-aware receding horizon planner for object-centric active mapping",
+      "authors": "L Lu, Y Zhang, P Zhou, J Qi, Y Pan, C Fu, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 9 (4), 3838-3845, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AODE9OILHJdcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:yMeIxYmEMEAC",
+      "title": "Analyzing emissions and energy efficiency at unsignalized real-world intersections under mixed traffic control",
+      "authors": "M Villarreal, D Wang, J Pan, W Li",
+      "authors_truncated": false,
+      "venue": "2024 Forum for Innovative Sustainable Transportation Systems (FISTS), 1-7, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AyMeIxYmEMEAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:DJbcl8HfkQkC",
+      "title": "Neuromorphic synergy for video binarization",
+      "authors": "S Lin, X Zhang, L Yang, L Yu, B Zhou, X Luo, W Wang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Image Processing 33, 1403-1418, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ADJbcl8HfkQkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:QYdC8u9Cj1oC",
+      "title": "A distributed outmost push approach for multirobot herding",
+      "authors": "S Zhang, X Lei, M Duan, X Peng, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Robotics 40, 1706-1723, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AQYdC8u9Cj1oC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:dBIO0h50nwkC",
+      "title": "Nbv/nbc planning considering confidence obtained from shape completion learning",
+      "authors": "R Liu, C Li, W Wan, J Pan, K Harada",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 9 (3), 2774-2781, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AdBIO0h50nwkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:_5tno0g5mFcC",
+      "title": "Memory-constrained semantic segmentation for ultra-high resolution UAV imagery",
+      "authors": "Q Li, J Cai, J Luo, Y Yu, J Gu, J Pan, W Liu",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 9 (2), 1708-1715, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A_5tno0g5mFcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:XvxMoLDsR5gC",
+      "title": "Analyzing emissions and energy efficiency in mixed traffic control at unsignalized intersections",
+      "authors": "M Villarreal, D Wang, J Pan, W Li",
+      "authors_truncated": false,
+      "venue": "IEEE Forum for Innovative Sustainable Transportation Systems (FISTS), 1-7, 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AXvxMoLDsR5gC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:LO7wyVUgiFcC",
+      "title": "Hybrid traffic control and coordination from pixels",
+      "authors": "M Villarreal, B Poudel, J Pan, W Li",
+      "authors_truncated": false,
+      "venue": "IEEE international conference on robotics and automation (ICRA), 2024",
+      "year": 2024,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ALO7wyVUgiFcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:OTTXONDVkokC",
+      "title": "RF Energy Harvesting for Intraoral Orthodontic Force Monitoring",
+      "authors": "P Li, L Zhu, Y Ding, Z Long, Y Yang, J Pan, M Gu, W Wang, Z Yang",
+      "authors_truncated": false,
+      "venue": "Nano Energy, 109244, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AOTTXONDVkokC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:F9fV5C73w3QC",
+      "title": "Vision-based defects detection and interactive impedance control in robotic automated layup tasks",
+      "authors": "H Zheng, X Zhai, S Gu, Z Liao, J Pan, Z Xu, X Zhou, S Mao, H Wu",
+      "authors_truncated": false,
+      "venue": "2023 IEEE International Conference on Robotics and Biomimetics (ROBIO), 1-6, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AF9fV5C73w3QC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:a3BOlSfXSfwC",
+      "title": "Real-time solution of multi-constrained quadratic programming problem for redundant manipulator based on recurrent neural network",
+      "authors": "L Zhong, X Zhang, X Zhai, Y Li, Z Xu, J Pan, X Zhou",
+      "authors_truncated": false,
+      "venue": "2023 IEEE International Conference on Robotics and Biomimetics (ROBIO), 1-6, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aa3BOlSfXSfwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:umqufdRvDiIC",
+      "title": "Large-scale mixed traffic control using dynamic vehicle routing and privacy-preserving crowdsourcing",
+      "authors": "D Wang, W Li, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Internet of Things Journal 11 (2), 1981-1989, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AumqufdRvDiIC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:sJsF-0ZLhtgC",
+      "title": "Overconstrained locomotion",
+      "authors": "H Sun, B Huang, Z Zhang, R Xu, G Huang, S Feng, G Huang, J Yin, N Qiu, ...",
+      "authors_truncated": true,
+      "venue": "arXiv preprint arXiv:2310.09824, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AsJsF-0ZLhtgC",
+      "authors_full": "Haoran Sun, Bangchao Huang, Zishang Zhang, Ronghan Xu, Guojing Huang, Shihao Feng, Guangyi Huang, Jiayi Yin, Nuofan Qiu, Hua Chen, Wei Zhang, Jia Pan, Fang Wan, Chaoyang Song",
+      "paper_url": "https://arxiv.org/abs/2310.09824"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:6ZxmRoH8BuwC",
+      "title": "Pomdp-guided active force-based search for robotic insertion",
+      "authors": "C Wang, H Luo, K Zhang, H Chen, J Pan, W Zhang",
+      "authors_truncated": false,
+      "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A6ZxmRoH8BuwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:4hFrxpcac9AC",
+      "title": "Overconstrained Robotic Limb with Energy-Efficient, Omni-directional Locomotion",
+      "authors": "R Xu, J Yin, S Feng, B Huang, H Sun, J Pan, F Wan, C Song",
+      "authors_truncated": false,
+      "venue": "arXiv e-prints, arXiv: 2310.09824, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A4hFrxpcac9AC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:HtEfBTGE9r8C",
+      "title": "Computational design towards energy efficient optimization in overconstrained robotic limbs",
+      "authors": "Y Gu, Z Wang, S Feng, H Sun, H Lu, J Pan, F Wan, C Song",
+      "authors_truncated": false,
+      "venue": "Journal of Computational Design and Engineering 10 (5), 1941-1956, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AHtEfBTGE9r8C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:86PQX7AUzd4C",
+      "title": "Polymer-based self-calibrated optical fiber tactile sensor",
+      "authors": "W Chen, Y Yan, Z Zhang, L Yang, J Pan",
+      "authors_truncated": false,
+      "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A86PQX7AUzd4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:BJbdYPG6LGMC",
+      "title": "Simultaneous Synchronization and Calibration for Wide-baseline Stereo Event Cameras",
+      "authors": "W Xing, S Lin, G Zheng, Y Du, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2309.16990, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ABJbdYPG6LGMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:sNmaIFBj_lkC",
+      "title": "Chathrc: Personalized human-robot collaboration using fuzzy reinforcement learning with natural language rewards",
+      "authors": "Z Hu, W Lu, Y Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "2023 32nd IEEE International Conference on Robot and Human Interactive …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AsNmaIFBj_lkC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:nZcligLrVowC",
+      "title": "Sample Augmentation and Orientation-aware Deep Neural Network for Logistics Objects Detection",
+      "authors": "W Yan, D Liu, X Zhai, H Zheng, Z Xu, J Pan, H Wu",
+      "authors_truncated": false,
+      "venue": "2023 IEEE 18th Conference on Industrial Electronics and Applications (ICIEA …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AnZcligLrVowC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:0izLItjtcgwC",
+      "title": "Bridging locomotion and manipulation using reconfigurable robotic limbs via reinforcement learning",
+      "authors": "H Sun, L Yang, Y Gu, J Pan, F Wan, C Song",
+      "authors_truncated": false,
+      "venue": "Biomimetics 8 (4), 364, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A0izLItjtcgwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:8d8msizDQcsC",
+      "title": "Grains: Proximity sensing of objects in granular materials",
+      "authors": "Z Zhang, R Jia, Y Yan, R Han, S Lin, Q Jiang, L Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2307.05935, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A8d8msizDQcsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ZzlSgRqYykMC",
+      "title": "Role Adaptation of Human–Robot Physical Interaction Based on the Distribution of Learned Belief",
+      "authors": "W Lu, L Zhao, Z Hu, J Pan",
+      "authors_truncated": false,
+      "venue": "International Conference on Intelligent Autonomous Systems, 453-465, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AZzlSgRqYykMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:FAceZFleit8C",
+      "title": "mclip: Multilingual clip via cross-lingual transfer",
+      "authors": "G Chen, L Hou, Y Chen, W Dai, L Shang, X Jiang, Q Liu, J Pan, W Wang",
+      "authors_truncated": false,
+      "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AFAceZFleit8C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:S16KYo8Pm5AC",
+      "title": "Hierarchical temporal transformer for 3d hand pose estimation and action recognition from egocentric rgb videos",
+      "authors": "Y Wen, H Pan, L Yang, J Pan, T Komura, W Wang",
+      "authors_truncated": false,
+      "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AS16KYo8Pm5AC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:IRz6iEL74y4C",
+      "title": "A transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics",
+      "authors": "HY Zhou, Y Yu, C Wang, S Zhang, Y Gao, J Pan, J Shao, G Lu, K Zhang, ...",
+      "authors_truncated": true,
+      "venue": "Nature Biomedical Engineering, 1-13, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AIRz6iEL74y4C",
+      "authors_full": "Hong-Yu Zhou, Yizhou Yu, Chengdi Wang, Shu Zhang, Yuanxu Gao, Jia Pan, Jun Shao, Guangming Lu, Kang Zhang, Weimin Li",
+      "paper_url": "https://www.nature.com/articles/s41551-023-01045-x"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:-FonjvnnhkoC",
+      "title": "Electromechanical sensor and a method of sensing an object or a tactile input using the sensor",
+      "authors": "Y Shen, Y Yan, J Pan",
+      "authors_truncated": false,
+      "venue": "US Patent 11,668,554, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A-FonjvnnhkoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:5qfkUJPXOUwC",
+      "title": "Human–robot collaboration for on-site construction",
+      "authors": "M Zhang, R Xu, H Wu, J Pan, X Luo",
+      "authors_truncated": false,
+      "venue": "Automation in Construction 150, 104812, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A5qfkUJPXOUwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:_FM0Bhl9EiAC",
+      "title": "Vision-based six-dimensional peg-in-hole for practical connector insertion",
+      "authors": "K Zhang, C Wang, H Chen, J Pan, MY Wang, W Zhang",
+      "authors_truncated": false,
+      "venue": "2023 IEEE international conference on robotics and automation (ICRA), 1771-1777, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A_FM0Bhl9EiAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:bz8QjSJIRt4C",
+      "title": "Target-free extrinsic calibration of event-LiDAR dyad using edge correspondences",
+      "authors": "W Xing, S Lin, L Yang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 8 (7), 4020-4027, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Abz8QjSJIRt4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:4fGpz3EwCPoC",
+      "title": "Fast event-based double integral for real-time robotics",
+      "authors": "S Lin, Y Zhang, D Huang, B Zhou, X Luo, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2305.05925, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A4fGpz3EwCPoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:FPJr55Dyh1AC",
+      "title": "CCIL: Context-conditioned imitation learning for urban driving",
+      "authors": "K Guo, W Jing, J Chen, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2305.02649, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AFPJr55Dyh1AC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:rmuvC79q63oC",
+      "title": "Cascaded denoising transformer for UAV nighttime tracking",
+      "authors": "K Lu, C Fu, Y Wang, H Zuo, G Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 8 (6), 3142-3149, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ArmuvC79q63oC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:_axFR9aDTf0C",
+      "title": "Tacgnn: Learning tactile-based in-hand manipulation with a blind robot using hierarchical graph neural network",
+      "authors": "L Yang, B Huang, Q Li, YY Tsai, WW Lee, C Song, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 8 (6), 3605-3612, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A_axFR9aDTf0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:PVjk1bu6vJQC",
+      "title": "TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot",
+      "authors": "L Yang, B Huang, Q Li, YY Tsai, WW Lee, C Song, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2304.00736, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3APVjk1bu6vJQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:e_rmSamDkqQC",
+      "title": "A theory-based deep-learning approach to detecting disinformation in financial social media",
+      "authors": "W Chung, Y Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "Information Systems Frontiers 25 (2), 473-492, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ae_rmSamDkqQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:9c2xU6iGI7YC",
+      "title": "Tight Collision Probability for UAV Motion Planning in Uncertain Environment",
+      "authors": "T Liu, F Zhang, F Gao, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2303.02607, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A9c2xU6iGI7YC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:i2xiXl-TujoC",
+      "title": "RDA: An accelerated collision free motion planner for autonomous navigation in cluttered environments",
+      "authors": "R Han, S Wang, S Wang, Z Zhang, Q Zhang, YC Eldar, Q Hao, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 8 (3), 1715-1722, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ai2xiXl-TujoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:edDO8Oi4QzsC",
+      "title": "Grasping living objects with adversarial behaviors using inverse reinforcement learning",
+      "authors": "Z Hu, Y Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Robotics 39 (2), 1151-1163, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AedDO8Oi4QzsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:v1_lew4L6wgC",
+      "title": "Generative hierarchical temporal transformer for hand action recognition and motion prediction",
+      "authors": "Y Wen, H Pan, T Ohkawa, L Yang, J Pan, Y Sato, T Komura, W Wang",
+      "authors_truncated": false,
+      "venue": "(No Title), 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Av1_lew4L6wgC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:P7Ujq4OLJYoC",
+      "title": "Learning stable nonlinear dynamics and interactive force-aware variable impedance control for robotic contact tasks",
+      "authors": "H Wu, X Zhai, X Wu, S Gu, Z Liao, Z Xu, J Pan, X Zhou",
+      "authors_truncated": false,
+      "venue": "Procedia Computer Science 226, 127-133, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AP7Ujq4OLJYoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:a9-T7VOCCH8C",
+      "title": "Evaluating explanation methods for vision-and-language navigation",
+      "authors": "G Chen, L Yang, G Chen, J Pan",
+      "authors_truncated": false,
+      "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+      "year": 2023,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aa9-T7VOCCH8C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:YohjEiUPhakC",
+      "title": "Scale-aware Siamese object tracking for vision-based UAM approaching",
+      "authors": "G Zheng, C Fu, J Ye, B Li, G Lu, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Industrial Informatics 19 (9), 9349-9360, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AYohjEiUPhakC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ruyezt5ZtCIC",
+      "title": "Smart walker",
+      "authors": "C Wu, J Pan, C Zhao, Z Shen, X Zhao, D Hu",
+      "authors_truncated": false,
+      "venue": "US Patent App. 17/832,314, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aruyezt5ZtCIC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Ri6SYOTghG4C",
+      "title": "Siamese object tracking for vision-based UAM approaching with pairwise scale-channel attention",
+      "authors": "G Zheng, C Fu, J Ye, B Li, G Lu, J Pan",
+      "authors_truncated": false,
+      "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ARi6SYOTghG4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ClCfbGk0d_YC",
+      "title": "Visual-tactile sensing for real-time liquid volume estimation in grasping",
+      "authors": "F Zhu, R Jia, L Yang, Y Yan, Z Wang, J Pan, W Wang",
+      "authors_truncated": false,
+      "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AClCfbGk0d_YC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:SpbeaW3--B0C",
+      "title": "Efficient exploration in crowds by coupling navigation controller and exploration planner",
+      "authors": "Z Zheng, S He, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (4), 12126-12133, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ASpbeaW3--B0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:xtoqd-5pKcoC",
+      "title": "A bottom-up intra-hour proactive scheduling of thermal appliances for household peak avoiding based on model predictive control",
+      "authors": "Z Zheng, J Pan, G Huang, X Luo",
+      "authors_truncated": false,
+      "venue": "Applied Energy 323, 119591, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Axtoqd-5pKcoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:tuHXwOkdijsC",
+      "title": "Overconstrained coaxial design of robotic legs with omni-directional locomotion",
+      "authors": "Y Gu, S Feng, Y Guo, F Wan, JS Dai, J Pan, C Song",
+      "authors_truncated": false,
+      "venue": "Mechanism and Machine Theory 176, 105018, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AtuHXwOkdijsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:hCrLmN-GePgC",
+      "title": "Optimization-based online flow fields estimation for AUVs navigation",
+      "authors": "H Xu, Y Lu, J Pan",
+      "authors_truncated": false,
+      "venue": "The International Symposium of Robotics Research, 351-367, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AhCrLmN-GePgC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:kz9GbA2Ns4gC",
+      "title": "Monocular camera-based complex obstacle avoidance via efficient deep reinforcement learning",
+      "authors": "J Ding, L Gao, W Liu, H Piao, J Pan, Z Du, X Yang, B Yin",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology 33 (2), 756-770, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Akz9GbA2Ns4gC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:M7yex6snE4oC",
+      "title": "Sampling-based planning for retrieving near-cylindrical objects in cluttered scenes using hierarchical graphs",
+      "authors": "H Tian, C Song, C Wang, X Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Robotics 39 (1), 165-182, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AM7yex6snE4oC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:k8Z6L05lTy4C",
+      "title": "Diffsrl: Learning dynamical state representation for deformable object manipulation with differentiable simulation",
+      "authors": "S Chen, Y Liu, SW Yao, J Li, T Fan, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (4), 9533-9540, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ak8Z6L05lTy4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:LI9QrySNdTsC",
+      "title": "A generalized continuous collision detection framework of polynomial trajectory for mobile robots in cluttered environments",
+      "authors": "Z Zhang, Y Zhang, R Han, L Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (4), 9810-9817, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ALI9QrySNdTsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:lmc2jWPfTJgC",
+      "title": "Modlanets: Learning generalisable dynamics via modularity and physical inductive bias",
+      "authors": "Y Lu, S Lin, G Chen, J Pan",
+      "authors_truncated": false,
+      "venue": "International Conference on Machine Learning, 14384-14397, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Almc2jWPfTJgC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:q3CdL3IzO_QC",
+      "title": "Faithful extreme rescaling via generative prior reciprocated invertible representations",
+      "authors": "Z Zhong, L Chai, Y Zhou, B Deng, J Pan, S He",
+      "authors_truncated": false,
+      "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aq3CdL3IzO_QC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:foquWX3nUaYC",
+      "title": "High-resolution face swapping via latent semantics disentanglement",
+      "authors": "Y Xu, B Deng, J Wang, Y Jing, J Pan, S He",
+      "authors_truncated": false,
+      "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AfoquWX3nUaYC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Dip1O2bNi0gC",
+      "title": "Autofocus for event cameras",
+      "authors": "S Lin, Y Zhang, L Yu, B Zhou, X Luo, J Pan",
+      "authors_truncated": false,
+      "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ADip1O2bNi0gC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:KUbvn5osdkgC",
+      "title": "End-to-end trajectory distribution prediction based on occupancy grid maps",
+      "authors": "K Guo, W Liu, J Pan",
+      "authors_truncated": false,
+      "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AKUbvn5osdkgC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:b1wdh0AR-JQC",
+      "title": "Deep reinforcement learning for robot collision avoidance with self-state-attention and sensor fusion",
+      "authors": "Y Han, IH Zhan, W Zhao, J Pan, Z Zhang, Y Wang, YJ Liu",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (3), 6886-6893, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ab1wdh0AR-JQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:TIZ-Mc8IlK0C",
+      "title": "Collecting a flock with multiple sub-groups by using multi-robot system",
+      "authors": "S Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (3), 6974-6981, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ATIZ-Mc8IlK0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:WZBGuue-350C",
+      "title": "Dynamicfilter: an online dynamic objects removal framework for highly dynamic environments",
+      "authors": "T Fan, B Shen, H Chen, W Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "2022 international conference on robotics and automation (ICRA), 7988-7994, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AWZBGuue-350C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:p__nRnzSRKYC",
+      "title": "An intelligent self-driving truck system for highway transportation",
+      "authors": "D Wang, L Gao, Z Lan, W Li, J Ren, J Zhang, P Zhang, P Zhou, S Wang, ...",
+      "authors_truncated": true,
+      "venue": "Frontiers in neurorobotics 16, 843026, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ap__nRnzSRKYC",
+      "authors_full": "Dawei Wang, Lingping Gao, Ziquan Lan, Wei Li, Jiaping Ren, Jiahui Zhang, Peng Zhang, Pei Zhou, Shengao Wang, Jia Pan, Dinesh Manocha, Ruigang Yang",
+      "paper_url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2022.843026/full"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:g3aElNc5_aQC",
+      "title": "Reinforcement learned distributed multi-robot navigation with reciprocal velocity obstacle shaped rewards",
+      "authors": "R Han, S Chen, S Wang, Z Zhang, R Gao, Q Hao, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (3), 5896-5903, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Ag3aElNc5_aQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:hMsQuOkrut0C",
+      "title": "Auv motion planning in uncertain flow fields using bayes adaptive mdps",
+      "authors": "H Xu, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (2), 5575-5582, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AhMsQuOkrut0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:yB1At4FlUx8C",
+      "title": "Challenges and outlook in robotic manipulation of deformable objects",
+      "authors": "J Zhu, A Cherubini, C Dune, D Navarro-Alarcon, F Alambeigi, D Berenson, ...",
+      "authors_truncated": true,
+      "venue": "IEEE Robotics & Automation Magazine 29 (3), 67-77, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AyB1At4FlUx8C",
+      "authors_full": "Jihong Zhu, Andrea Cherubini, Claire Dune, David Navarro-Alarcon, Farshid Alambeigi, Dmitry Berenson, Fanny Ficuciello, Kensuke Harada, Jens Kober, Xiang Li, Jia Pan, Wenzhen Yuan, Michael Gienger",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/9721534/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ILKRHgRFtOwC",
+      "title": "Learn to predict how humans manipulate large-sized objects from interactive motions",
+      "authors": "W Wan, L Yang, L Liu, Z Zhang, R Jia, YK Choi, J Pan, C Theobalt, ...",
+      "authors_truncated": true,
+      "venue": "IEEE Robotics and Automation Letters 7 (2), 4702-4709, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AILKRHgRFtOwC",
+      "authors_full": "Weilin Wan, Lei Yang, Lingjie Liu, Zhuoying Zhang, Ruixing Jia, Yi-King Choi, Jia Pan, Christian Theobalt, Taku Komura, Wenping Wang",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/9714029/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:vbGhcppDl1QC",
+      "title": "Tactile super-resolution model for soft magnetic skin",
+      "authors": "Y Yan, Y Shen, C Song, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (2), 2589-2596, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AvbGhcppDl1QC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:PoWvk5oyLR8C",
+      "title": "Coorp: Satisfying low-latency and high-throughput requirements of wireless network for coordinated robotic learning",
+      "authors": "S Deng, X Guan, Z Sun, S Zhao, T Shen, X Chen, T Duan, Y Wang, J Pan, ...",
+      "authors_truncated": true,
+      "venue": "IEEE Internet of Things Journal 10 (3), 1946-1960, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3APoWvk5oyLR8C",
+      "authors_full": "Shengliang Deng, Xiuxian Guan, Zekai Sun, Shixiong Zhao, Tianxiang Shen, Xusheng Chen, Tianyang Duan, Yuexuan Wang, Jia Pan, Yanjun Wu, Libo Zhang, Heming Cui",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/9670456/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:VaXvl8Fpj5cC",
+      "title": "Herding a flock using a distributed outmost push strategy with multi-robot system",
+      "authors": "S Zhang, X Lei, M Duan, X Peng, J Pan",
+      "authors_truncated": false,
+      "venue": "Springer: Cham, Swizterland, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AVaXvl8Fpj5cC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:AvfA0Oy_GE0C",
+      "title": "Surface texture recognition by deep learning‐enhanced tactile sensing",
+      "authors": "Y Yan, Z Hu, Y Shen, J Pan",
+      "authors_truncated": false,
+      "venue": "Advanced Intelligent Systems 4 (1), 2100076, 2022",
+      "year": 2022,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AAvfA0Oy_GE0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:BUYA1_V_uYcC",
+      "title": "Learning selective communication for multi-agent path finding",
+      "authors": "Z Ma, Y Luo, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (2), 1455-1462, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ABUYA1_V_uYcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:BwyfMAYsbu0C",
+      "title": "An efficient centralized planner for multiple automated guided vehicles at the crossroad of polynomial curves",
+      "authors": "Z Zhang, R Han, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (1), 398-405, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ABwyfMAYsbu0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Z5m8FVwuT1cC",
+      "title": "A hierarchical approach for mobile robot exploration in pedestrian crowd",
+      "authors": "Z Zheng, C Cao, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 7 (1), 175-182, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AZ5m8FVwuT1cC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:URolC5Kub84C",
+      "title": "A computational framework for robot hand design via reinforcement learning",
+      "authors": "Z Zhang, Y Zheng, Z Hu, L Liu, X Zhao, X Li, J Pan",
+      "authors_truncated": false,
+      "venue": "2021 IEEE/RSJ international conference on intelligent robots and systems …, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AURolC5Kub84C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:epqYDVWIO7EC",
+      "title": "An integrated smart home energy management model based on a pyramid taxonomy for residential houses with photovoltaic-battery systems",
+      "authors": "Z Zheng, Z Sun, J Pan, X Luo",
+      "authors_truncated": false,
+      "venue": "Applied Energy 298, 117159, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AepqYDVWIO7EC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ipzZ9siozwsC",
+      "title": "Projecting your view attentively: Monocular road scene layout estimation via cross-view transformation",
+      "authors": "W Yang, Q Li, W Liu, Y Yu, Y Ma, S He, J Pan",
+      "authors_truncated": false,
+      "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AipzZ9siozwsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:uc_IGeMz5qoC",
+      "title": "An efficient and responsive robot motion controller for safe human-robot collaboration",
+      "authors": "X Zhao, T Fan, Y Li, Y Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 6 (3), 6068-6075, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Auc_IGeMz5qoC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:zLWjf1WUPmwC",
+      "title": "Efficient se (3) reachability map generation via interplanar integration of intra-planar convolutions",
+      "authors": "Y Han, J Pan, M Xia, L Zeng, YJ Liu",
+      "authors_truncated": false,
+      "venue": "2021 IEEE International Conference on Robotics and Automation (ICRA), 1854-1860, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AzLWjf1WUPmwC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:EkHepimYqZsC",
+      "title": "An Overconstrained Robotic Leg with Coaxial Quasi-direct Drives for Omni-directional Ground Mobility *",
+      "authors": "S Feng, Y Gu, W Guo, Y Guo, F Wan, J Pan, C Song",
+      "authors_truncated": false,
+      "venue": "2021 IEEE International Conference on Robotics and Automation (ICRA), 11477 …, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AEkHepimYqZsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:0KyAp5RtaNEC",
+      "title": "A multi-year two-stage stochastic programming model for optimal design and operation of residential photovoltaic-battery systems",
+      "authors": "Z Zheng, X Li, J Pan, X Luo",
+      "authors_truncated": false,
+      "venue": "Energy and Buildings 239, 110835, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A0KyAp5RtaNEC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:nrtMV_XWKgEC",
+      "title": "An interval branch-and-bound-based inverse kinemetics algorithm towards global optimal redundancy resolution",
+      "authors": "Y Yang, Y Wu, J Pan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2104.12183, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AnrtMV_XWKgEC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:cWzG1nlazyYC",
+      "title": "Zero-shot cross-lingual transfer of neural machine translation with multilingual pretrained encoders",
+      "authors": "G Chen, S Ma, Y Chen, L Dong, D Zhang, J Pan, W Wang, F Wei",
+      "authors_truncated": false,
+      "venue": "EMNLP, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AcWzG1nlazyYC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:9Nmd_mFXekcC",
+      "title": "VR-ORCA: Variable responsibility optimal reciprocal collision avoidance",
+      "authors": "K Guo, D Wang, T Fan, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 6 (3), 4520-4527, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A9Nmd_mFXekcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:XD-gHx7UXLsC",
+      "title": "Highly anisotropic and flexible piezoceramic kirigami for preventing joint disorders",
+      "authors": "Y Hong, B Wang, W Lin, L Jin, S Liu, X Luo, J Pan, W Wang, Z Yang",
+      "authors_truncated": false,
+      "venue": "Science advances 7 (11), eabf0795, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AXD-gHx7UXLsC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:j8SEvjWlNXcC",
+      "title": "Learning-based optoelectronically innervated tactile finger for rigid-soft interactive grasping",
+      "authors": "L Yang, X Han, W Guo, F Wan, J Pan, C Song",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 6 (2), 3817-3824, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aj8SEvjWlNXcC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:uJ-U7cs_P_0C",
+      "title": "Failure handling of robotic pick and place tasks with multimodal cues under partial object occlusion",
+      "authors": "F Zhu, L Wang, Y Wen, L Yang, J Pan, Z Wang, W Wang",
+      "authors_truncated": false,
+      "venue": "Frontiers in Neurorobotics 15, 570507, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AuJ-U7cs_P_0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:VLnqNzywnoUC",
+      "title": "Soft magnetic skin for super-resolution tactile sensing with force self-decoupling",
+      "authors": "Y Yan, Z Hu, Z Yang, W Yuan, C Song, J Pan, Y Shen",
+      "authors_truncated": false,
+      "venue": "Science Robotics 6 (51), eabc8801, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AVLnqNzywnoUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:z_wVstp3MssC",
+      "title": "Living object grasping using two-stage graph reinforcement learning",
+      "authors": "Z Hu, Y Zheng, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 6 (2), 1950-1957, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Az_wVstp3MssC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:t7zJ5fGR-2UC",
+      "title": "Fast localization and segmentation of tissue abnormalities by autonomous robotic palpation",
+      "authors": "Y Yan, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 6 (2), 1707-1714, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3At7zJ5fGR-2UC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:2KloaMYe4IUC",
+      "title": "Optimization-based framework for excavation trajectory generation",
+      "authors": "Y Yang, P Long, X Song, J Pan, L Zhang",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 6 (2), 1479-1486, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A2KloaMYe4IUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:_Re3VWB3Y0AC",
+      "title": "Autonomous social distancing in urban environments using a quadruped robot",
+      "authors": "Z Chen, T Fan, X Zhao, J Liang, C Shen, H Chen, D Manocha, J Pan, ...",
+      "authors_truncated": true,
+      "venue": "IEEE Access 9, 8392-8403, 2021",
+      "year": 2021,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A_Re3VWB3Y0AC",
+      "authors_full": "Zhiming Chen, Tingxiang Fan, Xuan Zhao, Jing Liang, Cong Shen, Hua Chen, Dinesh Manocha, Jia Pan, Wei Zhang",
+      "paper_url": "https://ieeexplore.ieee.org/abstract/document/9316173/"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:9vf0nzSNQJEC",
+      "title": "System and method for manipulating deformable objects",
+      "authors": "J Pan, Z Hu",
+      "authors_truncated": false,
+      "venue": "US Patent 10,875,189, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A9vf0nzSNQJEC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:35r97b3x0nAC",
+      "title": "Design of an Optoelectronically Innervated Gripper for Rigid-Soft Interactive Grasping",
+      "authors": "L Yang, X Han, W Guo, Z Zhang, F Wan, J Pan, C Song",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2012.03168, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A35r97b3x0nAC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:-_dYPAW6P2MC",
+      "title": "Crowd-driven mapping, localization and planning",
+      "authors": "T Fan, D Wang, W Liu, J Pan",
+      "authors_truncated": false,
+      "venue": "International Symposium on Experimental Robotics, 354-368, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A-_dYPAW6P2MC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:7T2F9Uy0os0C",
+      "title": "Configuration space decomposition for learning-based collision checking in high-dof robots",
+      "authors": "Y Han, W Zhao, J Pan, YJ Liu",
+      "authors_truncated": false,
+      "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A7T2F9Uy0os0C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:kzcrU_BdoSEC",
+      "title": "A flexible dual-core optical waveguide sensor for simultaneous and continuous measurement of contact force and position",
+      "authors": "Z Zhang, Y Zheng, J Pan, X Li, K Li, Z Zhang",
+      "authors_truncated": false,
+      "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AkzcrU_BdoSEC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:5awf1xo2G04C",
+      "title": "Deepmnavigate: Deep reinforced multi-robot navigation unifying local & global collision avoidance",
+      "authors": "Q Tan, T Fan, J Pan, D Manocha",
+      "authors_truncated": false,
+      "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A5awf1xo2G04C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:eq2jaN3J8jMC",
+      "title": "Augmented memory for correlation filters in real-time UAV tracking",
+      "authors": "Y Li, C Fu, F Ding, Z Huang, J Pan",
+      "authors_truncated": false,
+      "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3Aeq2jaN3J8jMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:tzM49s52ZIMC",
+      "title": "A smart robotic walker with intelligent close-proximity interaction capabilities for elderly mobility safety",
+      "authors": "X Zhao, Z Zhu, M Liu, C Zhao, Y Zhao, J Pan, Z Wang, C Wu",
+      "authors_truncated": false,
+      "venue": "Frontiers in neurorobotics 14, 575889, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AtzM49s52ZIMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:PR6Y55bgFSsC",
+      "title": "An underwater robotic manipulator with soft bladders and compact depth-independent actuation",
+      "authors": "Z Shen, H Zhong, E Xu, R Zhang, KC Yip, LL Chan, LL Chan, J Pan, ...",
+      "authors_truncated": true,
+      "venue": "Soft Robotics 7 (5), 535-549, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3APR6Y55bgFSsC",
+      "authors_full": "Zhong Shen, Hua Zhong, Erchao Xu, Runzhi Zhang, Ki Chun Yip, Lawrence Long Chan, Leo Lai Chan, Jia Pan, Wenping Wang, Zheng Wang",
+      "paper_url": "https://journals.sagepub.com/doi/abs/10.1089/soro.2019.0087"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:ZfRJV9d4-WMC",
+      "title": "Human-robot collaboration using variable admittance control and human intention prediction",
+      "authors": "W Lu, Z Hu, J Pan",
+      "authors_truncated": false,
+      "venue": "2020 IEEE 16th International Conference on Automation Science and …, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AZfRJV9d4-WMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:Fu2w8maKXqMC",
+      "title": "Over-crowdedness alert! forecasting the future crowd distribution",
+      "authors": "Y Niu, W Shi, W Liu, S He, J Pan, AB Chan",
+      "authors_truncated": false,
+      "venue": "arXiv preprint arXiv:2006.05127, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AFu2w8maKXqMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:uLbwQdceFCQC",
+      "title": "Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios",
+      "authors": "T Fan, P Long, W Liu, J Pan",
+      "authors_truncated": false,
+      "venue": "The International Journal of Robotics Research 39 (7), 856-892, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AuLbwQdceFCQC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:tKAzc9rXhukC",
+      "title": "Real-time UAV path planning for autonomous urban scene reconstruction",
+      "authors": "Q Kuang, J Wu, J Pan, B Zhou",
+      "authors_truncated": false,
+      "venue": "2020 IEEE International Conference on Robotics and Automation (ICRA), 1156-1162, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AtKAzc9rXhukC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:NJ774b8OgUMC",
+      "title": "An actor-critic approach for legible robot motion planner",
+      "authors": "X Zhao, T Fan, D Wang, Z Hu, T Han, J Pan",
+      "authors_truncated": false,
+      "venue": "2020 IEEE international conference on robotics and automation (ICRA), 5949-5955, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ANJ774b8OgUMC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:dQ2og3OwTAUC",
+      "title": "Keyfilter-aware real-time uav object tracking",
+      "authors": "Y Li, C Fu, Z Huang, Y Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "2020 IEEE international conference on robotics and automation (ICRA), 193-199, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AdQ2og3OwTAUC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:LjlpjdlvIbIC",
+      "title": "Learning resilient behaviors for navigation under uncertainty",
+      "authors": "T Fan, P Long, W Liu, J Pan, R Yang, D Manocha",
+      "authors_truncated": false,
+      "venue": "2020 IEEE International Conference on Robotics and Automation (ICRA), 5299-5305, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ALjlpjdlvIbIC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:UHK10RUVsp4C",
+      "title": "Intermittent contextual learning for keyfilter-aware UAV object tracking using deep convolutional feature",
+      "authors": "Y Li, C Fu, Z Huang, Y Zhang, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Transactions on Multimedia 23, 810-822, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AUHK10RUVsp4C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:hkOj_22Ku90C",
+      "title": "A two-stage reinforcement learning approach for multi-UAV collision avoidance under imperfect sensing",
+      "authors": "D Wang, T Fan, T Han, J Pan",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 5 (2), 3098-3105, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AhkOj_22Ku90C"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:1yQoGdGgb4wC",
+      "title": "Rigid-soft interactive learning for robust grasping",
+      "authors": "L Yang, F Wan, H Wang, X Liu, Y Liu, J Pan, C Song",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 5 (2), 1720-1727, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3A1yQoGdGgb4wC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:CB2v5VPnA5kC",
+      "title": "Real-time kinematic smoothing for motion planning with obstacles",
+      "authors": "C Park, J Pan, D Manocha",
+      "authors_truncated": false,
+      "venue": "IEEE Robotics and Automation Letters 5 (2), 1318-1325, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3ACB2v5VPnA5kC"
+    },
+    {
+      "id": "YYT8-7kAAAAJ:kuK5TVdYjLIC",
+      "title": "Autonomous robotic systems by combining control and learning",
+      "authors": "J Pan",
+      "authors_truncated": false,
+      "venue": "Computer Science Research Week 2020, National University of Singapore, 2020",
+      "year": 2020,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=YYT8-7kAAAAJ&citation_for_view=YYT8-7kAAAAJ%3AkuK5TVdYjLIC"
+    }
+  ]
+}

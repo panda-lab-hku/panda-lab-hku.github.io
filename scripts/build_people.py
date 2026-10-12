@@ -28,6 +28,7 @@ PHOTOS = PEOPLE / "photo"
 PORTRAITS = PEOPLE / "portraits"
 RAW = PEOPLE / "raw"
 DATA = PEOPLE / "members.json"
+ADDITIONS = PEOPLE / "additions.json"
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 START = "    <!-- PEOPLE DATA START -->"
 END = "    <!-- PEOPLE DATA END -->"
@@ -67,6 +68,9 @@ RESEARCH_TEXT = {
     "quadruped robot;navigation": "Quadruped robots, navigation",
     "Navigation, Manipulation, Human-Robot Interaction": "Navigation, manipulation, human-robot interaction",
     "SLAM, 3D Reconstruction, Building Information Model, Robot navigation": "SLAM, 3D reconstruction, building information models, robot navigation",
+    "Computational Neurmorphic Vision / Large Behavior Model": "Computational neuromorphic vision, large behavior models",
+    "Robotics, Reinforcement Learning": "Robotics, reinforcement learning",
+    "Robotics Data Mining, Automatic Annotation System, Human-Computer Interaction": "Robotics data mining, automatic annotation systems, human-computer interaction",
 }
 DESTINATIONS = {
     "深圳大学助理教授": "Assistant Professor, Shenzhen University",
@@ -77,8 +81,11 @@ DESTINATIONS = {
     "具身领域创业": "Entrepreneurship in embodied AI",
     "南方科技大学统计与数据科学系助理教授": "Assistant Professor, Department of Statistics and Data Science, Southern University of Science and Technology",
 }
-# The collection includes one Chinese-only name; its email also uses Junde Guo.
-NAME_OVERRIDES = {"郭骏德": "Junde Guo"}
+# Exceptions to the collection's family-name-first convention.
+# Yizhou Chen is already given-name-first (https://jinxer000.github.io/).
+NAME_OVERRIDES = {"郭骏德": "Junde Guo", "Yizhou Chen": "Yizhou Chen"}
+# User-supplied replacement photos in people/raw take precedence over the form.
+PHOTO_OVERRIDES = {"Zhengjie Shu": "zhengjieshu.jpg"}
 # Reviewed square crops. Keep space above the head in tall portrait originals.
 CROP_CENTERS = {
     "Zhanteng Xie": (0.5, 0.1),
@@ -90,9 +97,10 @@ CROP_CENTERS = {
     "Jiaming Qi": (0.5, 0.0),
     "Junde Guo": (0.5, 0.0),
     "Zhaole Sun": (0.5, 1.0),
-    "Zhengjie Shu": (0.5, 1.0),
+    "Zhengjie Shu": (0.5, 0.5),
     "Wanli Xing": (0.5, 1.0),
     "Yinqiang Zhang": (0.5, 0.1),
+    "Yotsen Yan": (0.5, 0.15),
 }
 # User-supplied contact updates take precedence over the original collection.
 EMAIL_OVERRIDES = {
@@ -105,9 +113,12 @@ RESEARCH_OVERRIDES = {
     "Zhanteng Xie": "Navigation",
 }
 # Confirmed corrections take precedence over the original collection.
+EXCLUDED_MEMBERS = {"Songyuan Su"}
 MEMBER_OVERRIDES = {
+    "Zhanteng Xie": {"year": 2025},
     "Zhaole Sun": {"alumni": False, "departure": ""},
     "Wentao Chen": {"alumni": False, "departure": ""},
+    "Shijie Lin": {"role": "PostDoc", "year": 2026, "alumni": False, "departure": ""},
     "Wanli Xing": {"destination": "Sharpa"},
     "Chen Wang": {"destination": "AgiBot"},
     "Lei Yang": {"departure": "2023"},  # User-confirmed lab period: 2021-2023.
@@ -188,10 +199,13 @@ def validate_members(members):
         if not isinstance(member["alumni"], bool):
             raise ValueError("Invalid alumni status for " + member["name"])
         member["homepage"] = normalize_homepage(member["homepage"])
-        for key in ("source_photo", "photo", "portrait"):
-            filename = member[key]
-            if not filename or Path(filename).name != filename or "/" in filename or "\\" in filename:
-                raise ValueError("Photo reference must be a filename: " + filename)
+        photo_keys = ("source_photo", "photo", "portrait")
+        # Alumni are rendered as text rows and may have no supplied photo.
+        if not (member["alumni"] and all(member.get(key) is None for key in photo_keys)):
+            for key in photo_keys:
+                filename = member[key]
+                if not filename or Path(filename).name != filename or "/" in filename or "\\" in filename:
+                    raise ValueError("Photo reference must be a filename: " + str(filename))
         if conflicting_dates(member):
             print("WARNING: Conflicting dates for " + member["name"] + ": joined "
                   + str(member["year"]) + ", left " + member["departure"]
@@ -227,13 +241,15 @@ def read_members(workbook):
     members = []
     for row in rows:
         name = normalize_name(row["B"])
+        if name in EXCLUDED_MEMBERS:
+            continue
         role = row["D"]
         if role not in ROLE_LABELS:
             raise ValueError("Unknown member category: " + role)
         year_match = re.search(r"\b(?:19|20)\d{2}\b", row["C"])
         if not year_match:
             raise ValueError("Missing admission/joining year for " + name)
-        source_photo = row["G"]
+        source_photo = PHOTO_OVERRIDES.get(name, row["G"])
         if Path(source_photo).name != source_photo:
             raise ValueError("Photo reference must be a filename: " + source_photo)
         extension = Path(source_photo).suffix.lower()
@@ -277,24 +293,47 @@ def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def merge_additions(members, additions):
+    """Retain reviewed profiles that were supplied outside the collection form."""
+    merged = {member["name"].casefold(): dict(member) for member in members}
+    if len(merged) != len(members):
+        raise ValueError("Duplicate member names")
+    seen = set()
+    for addition in additions:
+        key = addition["name"].casefold()
+        if key in seen:
+            raise ValueError("Duplicate additional member: " + addition["name"])
+        seen.add(key)
+        merged[key] = {**merged.get(key, {}), **addition}
+    return list(merged.values())
+
+
 def prepare_photos(members, source_dir=None):
     """Preflight all photos, then copy imports without modifying raw files."""
+    photo_members = [member for member in members if member["photo"]]
     photo_dir = source_dir or PHOTOS
     files = {path.name.casefold(): path for path in photo_dir.iterdir() if path.is_file()}
+    local_files = {path.name.casefold(): path for path in PHOTOS.iterdir() if path.is_file()}
     planned = []
-    target_names = [member["photo"].casefold() for member in members]
+    target_names = [member["photo"].casefold() for member in photo_members]
     if len(target_names) != len(set(target_names)):
         raise ValueError("Duplicate normalized photo names")
-    for member in members:
-        old = files.get(member["source_photo"].casefold())
-        normalized = files.get(member["photo"].casefold())
+    for member in photo_members:
+        # Website-sourced profiles use saved local photos even during a raw import.
+        source_files = local_files if member.get("source_url") else files
+        source_parent = PHOTOS if member.get("source_url") else photo_dir
+        if source_dir and member["name"] in PHOTO_OVERRIDES:
+            source_parent = RAW
+            source_files = {path.name.casefold(): path for path in RAW.iterdir() if path.is_file()}
+        old = source_files.get(member["source_photo"].casefold())
+        normalized = source_files.get(member["photo"].casefold())
         if old and normalized and old != normalized:
             raise ValueError("Both old and normalized photos exist for " + member["name"])
         source = old or normalized
         if source is None:
             raise FileNotFoundError(member["source_photo"])
         target = PHOTOS / member["photo"]
-        if source.resolve().parent != photo_dir.resolve() or target.resolve().parent != PHOTOS.resolve():
+        if source.resolve().parent != source_parent.resolve() or target.resolve().parent != PHOTOS.resolve():
             raise ValueError("Photo path escaped the photo directory")
         with Image.open(source) as original:
             original.verify()
@@ -319,14 +358,18 @@ def prepare_photos(members, source_dir=None):
                 centering=CROP_CENTERS.get(member["name"], (0.5, 0.35)),
             )
             portrait.save(PORTRAITS / member["portrait"], "WEBP", quality=88, method=6)
-        manifest.append({
+        entry = {
             "name": member["name"],
-            "source_cell": "G" + str(member["row"]),
+            **({"source_url": member["source_url"], "photo_source_url": member["photo_source_url"]}
+               if member.get("source_url") else
+               {"source_file": "raw/" + PHOTO_OVERRIDES[member["name"]]}
+               if member["name"] in PHOTO_OVERRIDES else {"source_cell": "G" + str(member["row"])}),
             "original_filename": member["source_photo"],
             "filename": member["photo"],
             "web_portrait": "portraits/" + member["portrait"],
             "sha256": before_hash,
-        })
+        }
+        manifest.append(entry)
     (PEOPLE / "photo-filenames.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
@@ -367,7 +410,7 @@ def render_members(members):
     for role, section_id, label, note in GROUPS:
         current = sorted(
             (member for member in members if member["role"] == role and not member["alumni"]),
-            key=lambda member: (member["year"], member["row"]),
+            key=lambda member: (member["year"], member.get("row") or 0),
         )
         section = '    <section class="content-section" aria-labelledby="' + section_id + '-title">\n'
         section += '      <h2 id="' + section_id + '-title">' + label + "</h2>\n"
@@ -386,7 +429,7 @@ def render_members(members):
     for role, _, label, _ in GROUPS:
         former = sorted(
             (member for member in members if member["role"] == role and member["alumni"]),
-            key=lambda member: (member["year"], member["row"]),
+            key=lambda member: (member["year"], member.get("row") or 0),
         )
         if not former:
             continue
@@ -441,10 +484,14 @@ def main():
         workbook = PEOPLE / "data.xlsx"
     source_hash = digest(workbook) if workbook else None
     members = read_members(workbook) if workbook else json.loads(DATA.read_text(encoding="utf-8"))
+    additions = json.loads(ADDITIONS.read_text(encoding="utf-8")) if ADDITIONS.exists() else []
+    members = merge_additions(members, additions)
+    members = [member for member in members if member["name"] not in EXCLUDED_MEMBERS]
     validate_members(members)
     if args.import_raw and DATA.exists():
         previous = json.loads(DATA.read_text(encoding="utf-8"))
-        missing = {member["name"] for member in previous} - {member["name"] for member in members}
+        missing = ({member["name"] for member in previous} - EXCLUDED_MEMBERS
+                   - {member["name"] for member in members})
         if missing:
             raise ValueError("Import would remove existing members: " + ", ".join(sorted(missing)))
     page_path = ROOT / "people.html"
@@ -461,7 +508,7 @@ def main():
     page_path.write_text(before + START + "\n" + content + "\n" + END + after, encoding="utf-8")
     counts = Counter(("Alumni" if member["alumni"] else member["role"]) for member in members)
     print("Updated People:", dict(counts))
-    print("Original photos:", len(members), "(content hashes verified)")
+    print("Original photos:", sum(bool(member["photo"]) for member in members), "(content hashes verified)")
     print("Normalized data:", DATA.relative_to(ROOT))
     if workbook:
         print("Source workbook unchanged:", workbook.relative_to(ROOT))

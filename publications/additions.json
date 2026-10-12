@@ -1,0 +1,15 @@
+[
+  {
+    "id": "doi:10.1109/trl.2026.3735467",
+    "title": "Beyond Pixels: Learning Invariant Rewards for Real-World Robotics From a Few Demonstrations",
+    "authors": "Tengye Xu, Yangting Sun, Ziju Shen, Guanqi Chen, Zhen Fu, Yizhou Chen, Hua Chen, Jia Pan",
+    "authors_truncated": false,
+    "venue": "IEEE Transactions on Robot Learning, 2026",
+    "year": 2026,
+    "pages": "1-1",
+    "paper_url": "https://ieeexplore.ieee.org/document/11701353",
+    "doi": "10.1109/TRL.2026.3735467",
+    "source_url": "https://api.crossref.org/works/10.1109/trl.2026.3735467",
+    "verified_on": "2026-10-11"
+  }
+]

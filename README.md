@@ -61,17 +61,24 @@ python scripts/prepare_demos.py --ffmpeg "你的 ffmpeg.exe 路径"
 
 如果 FFmpeg 已加入 PATH，可省略 `--ffmpeg` 参数。新增视频时同步更新脚本中的 `DEMOS` 列表和 `index.html` 中的展示卡片。首页不显示视频标题；供屏幕阅读器使用的视频名称在对应 `video` 的 `aria-label` 中维护。
 
+只更新一个 Demo 时可加 `--demo softmimic`。2026-10-12 已将 `people/raw/softmimic.mp4` 复制到 `assets/softmimic.mp4`，并生成对应的网页视频和封面；新视频尺寸为 480 × 268，首页尺寸标记已同步。
+
 ## People 数据更新
 
 - `people/raw/`：最新收集表和 `图片/` 文件夹，已由 `.gitignore` 中的 `raw/` 规则忽略；导入过程只读，不移动或修改这些文件。
 - `people/members.json`：清洗后的完整成员数据，是日常生成页面的数据源；不包含表内的提交时间、提交者字段或电话号码。
+- `people/additions.json`：由主页等独立来源补充的成员，保存已核实资料及来源链接。普通生成和重新导入都会按姓名合并，同名时以该文件的资料为准，避免遗漏或重复。
 - `people/data.xlsx`：此前的 18 人收集表，保留作历史参考；只有尚无 `members.json` 时才用作初始化来源。
 - `people/photo/`：成员原照片按 `GivenName_FamilyName.jpg` 规范命名复制（PNG、WebP 保留相应扩展名），图片内容不变。老师提供的原照片保留为 `jpan_full.jpg`。
 - `people/portraits/`：网页使用的正方形 WebP 头像，最长 480 像素，已处理原图方向并检查裁切。
 - `people/photo-filenames.json`：原文件名、新文件名、收集表单元格和原图 SHA-256 的对应记录，便于追溯。
 - `scripts/build_people.py`：导入收集表、更新 People 页及头像的脚本。HTML 为静态输出，浏览网站无需 Python。
 
-本次已导入 39 位成员：4 位 Postdocs、20 位 PhD、3 位 Master，以及 12 位 Alumni；另保留 Jia Pan 的 Faculty 卡片。
+当前展示 44 位成员：5 位 Postdocs、21 位 PhD、2 位 Master，以及 16 位 Alumni；另保留 Jia Pan 的 Faculty 卡片。
+
+2026-10-12 根据最新收集表补入 Shijie Lin、Dawei Wang、Yizhou Chen 和 Yupu Lu。Shijie Lin 按用户确认列为 2026 年加入的在组 Postdoc，清空离组时间，修正保存在 `MEMBER_OVERRIDES`。Dawei Wang 和 Yizhou Chen 列入 Alumni，Yupu Lu 列入在读 PhD。Yizhou Chen 在原表中已使用「名在前、姓在后」，经其[个人主页](https://jinxer000.github.io/)核对后在 `NAME_OVERRIDES` 中保留该顺序。
+
+2026-10-12 补入 Tingxiang Fan，列为 PhD Alumni（2018–2022），现职为 Light Origins，姓名链接到用户提供的 [LinkedIn](https://www.linkedin.com/in/tingxiang-fan/)。毕业年份由[原课题组页面](https://sites.google.com/site/panjia/home/group)核实，入组年份和现职由用户确认。资料保存在 `people/additions.json`；Alumni 使用文字表格，未提供照片时三个照片字段均设为 `null`，生成脚本跳过照片处理。
 
 将最新 `.xlsx` 和配套的 `图片/` 放入 `people/raw/` 后，在项目目录运行：
 
@@ -87,7 +94,13 @@ python scripts/build_people.py --import-raw
 python scripts/build_people.py
 ```
 
+已确认从名单移除的成员记录在脚本的 `EXCLUDED_MEMBERS` 中，日常生成和重新导入均会排除，避免被原始收集表重新加入。
+
+2026-10-11 根据[上海交通大学教师主页](https://gift.sjtu.edu.cn/en/faculty/45324)补充 Yotsen Yan，按用户要求列入 PhD Alumni，年份采用主页所列博士阶段 2018–2022，现职为上海交通大学未来技术学院长聘轨副教授。该记录在 `people/additions.json` 中维护；照片下载自同一教师页，保存在 `people/photo/`，重新导入时使用本地照片，来源链接记录在照片映射中。
+
 生成脚本需要 Pillow（`python -m pip install Pillow`）。收集表沿用「姓在前、名在后」格式，网页和 JSON 使用「名在前、姓在后」。中文姓名「郭骏德」映射为 Junde Guo。更换已有成员照片时可更新 `people/photo/` 中的规范文件名，再执行日常生成命令。
+
+Zhengjie Shu 的照片于 2026-10-12 更新为 `people/raw/zhengjieshu.jpg`。`PHOTO_OVERRIDES` 记录此次替换，重新导入时优先使用该文件，避免被收集表中的旧照片覆盖；日常生成使用已复制到 `people/photo/` 的照片。照片映射中的 `source_file` 记录替换文件路径。
 
 已有邮箱和研究方向修正保留在脚本中的 `EMAIL_OVERRIDES`、`RESEARCH_OVERRIDES`。`MEMBER_OVERRIDES` 保存用户确认的修正：Zhaole Sun 为在组 Postdoc（2026 年加入），Wentao Chen 为在读 PhD（2021 年入学），两人均清空原表误填的毕业信息；Wanli Xing 的工作单位为 Sharpa，Chen Wang 为 AgiBot。重新导入也会保留这些修正。若其他校友的离组年份早于加入年份，脚本会提示，并将网页时间显示为 `To be confirmed`，不猜测日期。需要在后续导入中保留的人工修正应同步维护到对应覆盖配置。
 
@@ -115,7 +128,9 @@ python scripts/build_publications.py --refresh
 
 规则：按 Scholar 的年份筛选 2020 年至当前年份，未标年份的条目不推断年份；期刊、会议和预印本按来源保留，唯一标识重复时停止导入。Scholar 列表中被省略的作者会尝试从详情页补全，其余作者保留原列表的姓名缩写。Google Scholar 链接指向来源记录；只有从详情页读到论文网址时才增加 Paper 链接。封面图、视频、代码和项目链接可在后续提供资料时补充。
 
-`publications.html` 中 `PUBLICATIONS DATA START` 与 `PUBLICATIONS DATA END` 之间由脚本生成。后续编辑论文条目应修改 `publications/scholar.json`；使用 `--refresh` 会重新读取 Scholar 信息。
+`publications.html` 中 `PUBLICATIONS DATA START` 与 `PUBLICATIONS DATA END` 之间由脚本生成。Scholar 条目保存在 `publications/scholar.json`；使用 `--refresh` 会重新读取 Scholar 信息。
+
+经核实的额外论文保存在 `publications/additions.json`，记录完整作者、期刊、年份、论文链接、DOI 和元数据来源。普通生成和 `--refresh` 都会合并这些条目；按 ID、DOI 或规范化后的完整标题匹配已有记录，避免同一论文重复展示，匹配不明确时停止并提示。额外条目不要求 Scholar 链接，标题可直接链接出版社页面。新增的 **Beyond Pixels: Learning Invariant Rewards for Real-World Robotics From a Few Demonstrations** 根据 Crossref 中与 IEEE 文档 11701353 对应的记录核对，列入 2026 年 IEEE Transactions on Robot Learning。
 
 ## Join 页面
 

@@ -120,14 +120,6 @@
     "sha256": "b85ea819f314f40ea17547b4169aca30930210c478eba117a1c78fc9a91b4b5c"
   },
   {
-    "name": "Songyuan Su",
-    "source_cell": "G17",
-    "original_filename": "IMG_7549_2026-09-30 10.26.19_Sy.jpeg",
-    "filename": "Songyuan_Su.jpg",
-    "web_portrait": "portraits/Songyuan_Su.webp",
-    "sha256": "e072576030010ca90ebe96fd61239d2b2786d1fb89df141b10735ebcfadcb86a"
-  },
-  {
     "name": "Zhongxuan Li",
     "source_cell": "G18",
     "original_filename": "IMG_6894_2026-09-30 10.49.19_Dieselmarble.JPG",
@@ -161,11 +153,11 @@
   },
   {
     "name": "Zhengjie Shu",
-    "source_cell": "G22",
-    "original_filename": "IMG_4811_2026-09-30 22.06.06_Shu.jpeg",
+    "source_file": "raw/zhengjieshu.jpg",
+    "original_filename": "zhengjieshu.jpg",
     "filename": "Zhengjie_Shu.jpg",
     "web_portrait": "portraits/Zhengjie_Shu.webp",
-    "sha256": "1727c83a9725db7faea1c756373f3d8991edd48dc92ef9adae8799b1206ec615"
+    "sha256": "76aee93aacf829cd681608d23cd48c35623e041aa9eda14f7618c71f7763d553"
   },
   {
     "name": "Jiaming Qi",
@@ -310,5 +302,46 @@
     "filename": "Yinqiang_Zhang.jpg",
     "web_portrait": "portraits/Yinqiang_Zhang.webp",
     "sha256": "1109559f64a04540a0c50fa514a972e0f61949842f11a1886b84f0c993675c05"
+  },
+  {
+    "name": "Shijie Lin",
+    "source_cell": "G41",
+    "original_filename": "citations_2026-10-11 22.26.53_林诗杰 Shijie.jpeg",
+    "filename": "Shijie_Lin.jpg",
+    "web_portrait": "portraits/Shijie_Lin.webp",
+    "sha256": "36931b7da536f34cb35114ca725dac1ce5541cff33da7508ea86501a6f3987e5"
+  },
+  {
+    "name": "Dawei Wang",
+    "source_cell": "G42",
+    "original_filename": "_DSC9573_2026-10-11 22.55.28_David.jpeg",
+    "filename": "Dawei_Wang.jpg",
+    "web_portrait": "portraits/Dawei_Wang.webp",
+    "sha256": "8af00d0642f0892558274f10b5106943c842736e381e8f914f686fcaccc56ff2"
+  },
+  {
+    "name": "Yizhou Chen",
+    "source_cell": "G43",
+    "original_filename": "photo20260909231518_2026-10-11 23.06.13_Joseph.jpg",
+    "filename": "Yizhou_Chen.jpg",
+    "web_portrait": "portraits/Yizhou_Chen.webp",
+    "sha256": "20ea8c569ff729792818cc5d7f384029437079aafd6d93b48f0b1c8d795ec7f4"
+  },
+  {
+    "name": "Yupu Lu",
+    "source_cell": "G44",
+    "original_filename": "IMG_2022_2026-10-12 11.44.41_哄哄.jpeg",
+    "filename": "Yupu_Lu.jpg",
+    "web_portrait": "portraits/Yupu_Lu.webp",
+    "sha256": "597881ff2b3c782f31151798797b026cb7f0d2c73d8c27580a49c82334c5ecb7"
+  },
+  {
+    "name": "Yotsen Yan",
+    "source_url": "https://gift.sjtu.edu.cn/en/faculty/45324",
+    "photo_source_url": "https://ngcee.sjtu.edu.cn/faculty/storage/common/2026/06/1132c98304a4d1bf7d23c71963273b71.png",
+    "original_filename": "1132c98304a4d1bf7d23c71963273b71.png",
+    "filename": "Yotsen_Yan.png",
+    "web_portrait": "portraits/Yotsen_Yan.webp",
+    "sha256": "48e80e23dba0793adcbf07bcaa7289eb5e28466259449e4bf37d3d0ebe0c4b61"
   }
 ]

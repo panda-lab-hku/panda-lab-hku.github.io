@@ -2,7 +2,7 @@
   {
     "name": "Zhanteng Xie",
     "role": "PostDoc",
-    "year": 2024,
+    "year": 2025,
     "alumni": false,
     "departure": "",
     "research": "Navigation",
@@ -256,23 +256,6 @@
     "row": 16
   },
   {
-    "name": "Songyuan Su",
-    "role": "Master",
-    "year": 2026,
-    "alumni": false,
-    "departure": "",
-    "research": "Mobile manipulation, agentic robotics",
-    "homepage": "",
-    "emails": [
-      "susongyuan666@gmail.com"
-    ],
-    "destination": "",
-    "source_photo": "IMG_7549_2026-09-30 10.26.19_Sy.jpeg",
-    "photo": "Songyuan_Su.jpg",
-    "portrait": "Songyuan_Su.webp",
-    "row": 17
-  },
-  {
     "name": "Zhongxuan Li",
     "role": "PhD",
     "year": 2023,
@@ -352,7 +335,7 @@
       "shuzj@connect.hku.hk"
     ],
     "destination": "",
-    "source_photo": "IMG_4811_2026-09-30 22.06.06_Shu.jpeg",
+    "source_photo": "zhengjieshu.jpg",
     "photo": "Zhengjie_Shu.jpg",
     "portrait": "Zhengjie_Shu.webp",
     "row": 22
@@ -662,5 +645,111 @@
     "photo": "Yinqiang_Zhang.jpg",
     "portrait": "Yinqiang_Zhang.webp",
     "row": 40
+  },
+  {
+    "name": "Shijie Lin",
+    "role": "PostDoc",
+    "year": 2026,
+    "alumni": false,
+    "departure": "",
+    "research": "Computational neuromorphic vision, large behavior models",
+    "homepage": "https://sj-lin.top",
+    "emails": [
+      "lsj2048@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "citations_2026-10-11 22.26.53_林诗杰 Shijie.jpeg",
+    "photo": "Shijie_Lin.jpg",
+    "portrait": "Shijie_Lin.webp",
+    "row": 41
+  },
+  {
+    "name": "Dawei Wang",
+    "role": "PhD",
+    "year": 2018,
+    "alumni": true,
+    "departure": "2023",
+    "research": "Robotics, reinforcement learning",
+    "homepage": "",
+    "emails": [
+      "dawei@connect.hku.hk"
+    ],
+    "destination": "Huawei Noah's Ark Lab",
+    "source_photo": "_DSC9573_2026-10-11 22.55.28_David.jpeg",
+    "photo": "Dawei_Wang.jpg",
+    "portrait": "Dawei_Wang.webp",
+    "row": 42
+  },
+  {
+    "name": "Yizhou Chen",
+    "role": "PostDoc",
+    "year": 2023,
+    "alumni": true,
+    "departure": "Fall 2026",
+    "research": "Task and motion planning, robot learning",
+    "homepage": "https://jinxer000.github.io/",
+    "emails": [
+      "jinxer000@gmail.com"
+    ],
+    "destination": "",
+    "source_photo": "photo20260909231518_2026-10-11 23.06.13_Joseph.jpg",
+    "photo": "Yizhou_Chen.jpg",
+    "portrait": "Yizhou_Chen.webp",
+    "row": 43
+  },
+  {
+    "name": "Yupu Lu",
+    "role": "PhD",
+    "year": 2020,
+    "alumni": false,
+    "departure": "",
+    "research": "Robotics data mining, automatic annotation systems, human-computer interaction",
+    "homepage": "https://scholar.google.com/citations?user=sodxBZkAAAAJ",
+    "emails": [
+      "luyp16@connect.hku.hk"
+    ],
+    "destination": "",
+    "source_photo": "IMG_2022_2026-10-12 11.44.41_哄哄.jpeg",
+    "photo": "Yupu_Lu.jpg",
+    "portrait": "Yupu_Lu.webp",
+    "row": 44
+  },
+  {
+    "name": "Yotsen Yan",
+    "role": "PhD",
+    "year": 2018,
+    "alumni": true,
+    "departure": "2022",
+    "research": "Magnetic tactile sensing, dexterous manipulation, embodied AI",
+    "homepage": "https://gift.sjtu.edu.cn/en/faculty/45324",
+    "emails": [
+      "youcan.yan@sjtu.edu.cn"
+    ],
+    "destination": "Tenure-track Associate Professor, Global Institute of Future Technology, Shanghai Jiao Tong University",
+    "source_photo": "1132c98304a4d1bf7d23c71963273b71.png",
+    "photo": "Yotsen_Yan.png",
+    "portrait": "Yotsen_Yan.webp",
+    "row": null,
+    "source_url": "https://gift.sjtu.edu.cn/en/faculty/45324",
+    "photo_source_url": "https://ngcee.sjtu.edu.cn/faculty/storage/common/2026/06/1132c98304a4d1bf7d23c71963273b71.png",
+    "verified_on": "2026-10-11"
+  },
+  {
+    "name": "Tingxiang Fan",
+    "role": "PhD",
+    "year": 2018,
+    "alumni": true,
+    "departure": "2022",
+    "research": "",
+    "homepage": "https://www.linkedin.com/in/tingxiang-fan/",
+    "emails": [],
+    "destination": "Light Origins",
+    "source_photo": null,
+    "photo": null,
+    "portrait": null,
+    "row": null,
+    "source_url": "https://sites.google.com/site/panjia/home/group",
+    "source_note": "Former lab page confirms PhD graduation in 2022. Joining year 2018 and current position Light Origins confirmed by the user on 2026-10-12.",
+    "verified_on": "2026-10-12"
   }
 ]

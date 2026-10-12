@@ -1,4 +1,4 @@
-"""Build a static publication list from a saved Google Scholar snapshot.
+"""Build a static publication list from Scholar and verified additions.
 
 python scripts/build_publications.py             # render the saved data
 python scripts/build_publications.py --refresh   # fetch Scholar, then render
@@ -23,6 +23,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "publications" / "scholar.json"
+ADDITIONS = ROOT / "publications" / "additions.json"
 PAGE = ROOT / "publications.html"
 USER_ID = "YYT8-7kAAAAJ"
 PROFILE_URL = "https://scholar.google.com/citations?" + urlencode({
@@ -167,18 +168,61 @@ def author_html(record):
     )
 
 
+def merge_additions(snapshot, additions):
+    """Keep publisher-sourced additions across Scholar refreshes, without duplicates."""
+    records = [dict(record) for record in snapshot["publications"]]
+    seen = set()
+    for addition in additions:
+        for key in ("id", "title", "authors", "venue", "paper_url"):
+            if not isinstance(addition.get(key), str) or not addition[key].strip():
+                raise ValueError("Publication addition is missing " + key)
+        if addition["id"] in seen:
+            raise ValueError("Duplicate publication addition ID: " + addition["id"])
+        seen.add(addition["id"])
+        if not isinstance(addition.get("year"), int) or addition["year"] < FIRST_YEAR:
+            raise ValueError("Invalid publication year: " + addition["id"])
+        url = urlsplit(addition["paper_url"])
+        if url.scheme not in {"http", "https"} or not url.netloc:
+            raise ValueError("Invalid paper URL: " + addition["id"])
+        title_key = re.sub(r"\W+", "", addition["title"]).casefold()
+        doi = addition.get("doi", "").casefold()
+        matches = [index for index, record in enumerate(records) if (
+            record["id"] == addition["id"]
+            or (doi and record.get("doi", "").casefold() == doi)
+            or re.sub(r"\W+", "", record["title"]).casefold() == title_key
+        )]
+        if len(matches) > 1:
+            raise ValueError("Ambiguous publication match: " + addition["title"])
+        if matches:
+            index = matches[0]
+            original = records[index]
+            merged = {**original, **addition, "id": original["id"]}
+            if "authors_full" not in addition:
+                merged.pop("authors_full", None)
+            records[index] = merged
+        else:
+            records.insert(0, dict(addition))
+    records.sort(key=lambda record: record["year"], reverse=True)
+    return {**snapshot, "publications": records, "publication_count": len(records)}
+
+
 def publication_html(record):
     title = escape(record["title"])
-    scholar_url = escape(record["scholar_url"], quote=True)
+    scholar_url = record.get("scholar_url")
+    title_url = escape(scholar_url or record["paper_url"], quote=True)
     links = []
     paper_url = record.get("paper_url")
     if paper_url:
         links.append('<a href="' + escape(paper_url, quote=True) + '">Paper</a>')
-    links.append('<a href="' + scholar_url + '">Google Scholar</a>')
+    if scholar_url:
+        links.append('<a href="' + escape(scholar_url, quote=True) + '">Google Scholar</a>')
+    if record.get("doi"):
+        links.append('<a href="https://doi.org/' + escape(record["doi"], quote=True) + '">DOI</a>')
+    id_attribute = "data-scholar-id" if scholar_url else "data-publication-id"
     return (
-        '        <article class="pub pub-text-only" data-scholar-id="' + escape(record["id"], quote=True) + '">\n'
+        '        <article class="pub pub-text-only" ' + id_attribute + '="' + escape(record["id"], quote=True) + '">\n'
         "          <div>\n"
-        '            <h3 class="pub-title"><a href="' + scholar_url + '">' + title + "</a></h3>\n"
+        '            <h3 class="pub-title"><a href="' + title_url + '">' + title + "</a></h3>\n"
         '            <p class="pub-authors">' + author_html(record) + "</p>\n"
         '            <p class="pub-venue">' + escape(record["venue"]) + "</p>\n"
         '            <div class="pub-links">' + "".join(links) + "</div>\n"
@@ -229,6 +273,8 @@ def main():
         snapshot = save_snapshot(raw, records)
     else:
         snapshot = json.loads(SNAPSHOT.read_text(encoding="utf-8"))
+    additions = json.loads(ADDITIONS.read_text(encoding="utf-8")) if ADDITIONS.exists() else []
+    snapshot = merge_additions(snapshot, additions)
     write_page(snapshot)
     print("Rendered", snapshot["publication_count"], "publications from", snapshot["first_year"], "onwards.")
 

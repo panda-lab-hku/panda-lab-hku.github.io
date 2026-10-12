@@ -31,10 +31,12 @@ def run(ffmpeg, arguments):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--ffmpeg", default=shutil.which("ffmpeg"))
+    parser.add_argument("--demo", choices=DEMOS, action="append",
+                        help="Prepare only this demo (repeat to select multiple demos)")
     args = parser.parse_args()
     if not args.ffmpeg:
         parser.error("Provide --ffmpeg or install ffmpeg on PATH.")
-    sources = [ASSETS / (name + ".mp4") for name in DEMOS]
+    sources = [ASSETS / (name + ".mp4") for name in dict.fromkeys(args.demo or DEMOS)]
     for source in sources:
         if not source.is_file():
             raise FileNotFoundError(source)
@@ -62,7 +64,7 @@ def main():
     for source, expected in original_hashes.items():
         if digest(source) != expected:
             raise ValueError("Original demo changed: " + str(source))
-    print("Prepared five videos and posters. Original files are unchanged.", flush=True)
+    print(f"Prepared {len(sources)} videos and posters. Original files are unchanged.", flush=True)
 
 
 if __name__ == "__main__":

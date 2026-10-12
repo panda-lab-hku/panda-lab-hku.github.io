@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Yotsen Yan",
+    "role": "PhD",
+    "year": 2018,
+    "alumni": true,
+    "departure": "2022",
+    "research": "Magnetic tactile sensing, dexterous manipulation, embodied AI",
+    "homepage": "https://gift.sjtu.edu.cn/en/faculty/45324",
+    "emails": [
+      "youcan.yan@sjtu.edu.cn"
+    ],
+    "destination": "Tenure-track Associate Professor, Global Institute of Future Technology, Shanghai Jiao Tong University",
+    "source_photo": "1132c98304a4d1bf7d23c71963273b71.png",
+    "photo": "Yotsen_Yan.png",
+    "portrait": "Yotsen_Yan.webp",
+    "row": null,
+    "source_url": "https://gift.sjtu.edu.cn/en/faculty/45324",
+    "photo_source_url": "https://ngcee.sjtu.edu.cn/faculty/storage/common/2026/06/1132c98304a4d1bf7d23c71963273b71.png",
+    "verified_on": "2026-10-11"
+  },
+  {
+    "name": "Tingxiang Fan",
+    "role": "PhD",
+    "year": 2018,
+    "alumni": true,
+    "departure": "2022",
+    "research": "",
+    "homepage": "https://www.linkedin.com/in/tingxiang-fan/",
+    "emails": [],
+    "destination": "Light Origins",
+    "source_photo": null,
+    "photo": null,
+    "portrait": null,
+    "row": null,
+    "source_url": "https://sites.google.com/site/panjia/home/group",
+    "source_note": "Former lab page confirms PhD graduation in 2022. Joining year 2018 and current position Light Origins confirmed by the user on 2026-10-12.",
+    "verified_on": "2026-10-12"
+  }
+]

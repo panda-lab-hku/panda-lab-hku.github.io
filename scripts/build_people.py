@@ -119,6 +119,7 @@ MEMBER_OVERRIDES = {
     "Zhaole Sun": {"alumni": False, "departure": ""},
     "Wentao Chen": {"alumni": False, "departure": ""},
     "Shijie Lin": {"role": "PostDoc", "year": 2026, "alumni": False, "departure": ""},
+    "Yizhou Chen": {"role": "PostDoc", "alumni": False, "departure": ""},
     "Wanli Xing": {"destination": "Sharpa"},
     "Chen Wang": {"destination": "AgiBot"},
     "Lei Yang": {"departure": "2023"},  # User-confirmed lab period: 2021-2023.

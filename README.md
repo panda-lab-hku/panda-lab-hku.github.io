@@ -74,7 +74,9 @@ python scripts/prepare_demos.py --ffmpeg "你的 ffmpeg.exe 路径"
 - `people/photo-filenames.json`：原文件名、新文件名、收集表单元格和原图 SHA-256 的对应记录，便于追溯。
 - `scripts/build_people.py`：导入收集表、更新 People 页及头像的脚本。HTML 为静态输出，浏览网站无需 Python。
 
-当前展示 44 位成员：5 位 Postdocs、21 位 PhD、2 位 Master，以及 16 位 Alumni；另保留 Jia Pan 的 Faculty 卡片。
+当前展示 44 位成员：6 位 Postdocs、21 位 PhD、2 位 Master，以及 15 位 Alumni；另保留 Jia Pan 的 Faculty 卡片。
+
+2026-10-22 根据用户确认，将 Yizhou Chen 调整为在组 Postdoc，保留 2023 年加入时间并清空离组时间。修正保存在 `MEMBER_OVERRIDES`，重新导入收集表时也会保留。
 
 2026-10-12 根据最新收集表补入 Shijie Lin、Dawei Wang、Yizhou Chen 和 Yupu Lu。Shijie Lin 按用户确认列为 2026 年加入的在组 Postdoc，清空离组时间，修正保存在 `MEMBER_OVERRIDES`。Dawei Wang 和 Yizhou Chen 列入 Alumni，Yupu Lu 列入在读 PhD。Yizhou Chen 在原表中已使用「名在前、姓在后」，经其[个人主页](https://jinxer000.github.io/)核对后在 `NAME_OVERRIDES` 中保留该顺序。
 

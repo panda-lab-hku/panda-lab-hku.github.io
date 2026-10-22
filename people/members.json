@@ -684,8 +684,8 @@
     "name": "Yizhou Chen",
     "role": "PostDoc",
     "year": 2023,
-    "alumni": true,
-    "departure": "Fall 2026",
+    "alumni": false,
+    "departure": "",
     "research": "Task and motion planning, robot learning",
     "homepage": "https://jinxer000.github.io/",
     "emails": [
